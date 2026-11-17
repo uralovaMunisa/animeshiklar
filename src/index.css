@@ -1,0 +1,32 @@
+:root {
+  --primary-color: #ff3366;
+  --primary-glow: rgba(255, 51, 102, 0.6);
+  --secondary-color: #8b5cf6;
+  --cyan-glow: #00f0ff;
+  --font-main: 'Montserrat', sans-serif;
+  --font-jp: 'Noto Sans JP', sans-serif;
+  --font-display: 'Syne', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  min-height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-color: #050508;
+  font-family: var(--font-main);
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  width: 100%;
+  min-height: 100%;
+}
+

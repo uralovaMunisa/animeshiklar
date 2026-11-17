@@ -1,0 +1,278 @@
+// ANIMESHIKLAR OLAMI - YOUTUBE VIDEOS DATA (22 TA ISHLAYDIGAN VIDEO)
+
+export const VIDEO_CATEGORIES = [
+  'All Videos',
+  'Anime AMV',
+  'Anime Openings',
+  'Anime Trailers',
+  'Anime Scenes',
+  'Popular Anime'
+];
+
+export const YOUTUBE_VIDEOS_DATA = [
+  {
+    id: 'yt-1',
+    youtubeId: 'ZRtdQ81jPUQ',
+    title: 'YOASOBI「アイドル」 Idol - Rasmiy Musiqiy Video',
+    anime: 'Oshi no Ko',
+    category: 'Anime Openings',
+    views: '495M',
+    duration: '03:48',
+    channel: 'Ayase / YOASOBI',
+    thumbnail: 'https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&q=85',
+    description: 'Oshi no Ko animesining dunyo xitiga aylangan rasmiy ochilish musiqasi (Opening).'
+  },
+  {
+    id: 'yt-2',
+    youtubeId: '2S4qGKmzBJE',
+    title: 'SiM - The Rumbling (Attack on Titan Final Season Opening)',
+    anime: 'Attack on Titan (Shingeki no Kyojin)',
+    category: 'Anime Openings',
+    views: '162M',
+    duration: '03:40',
+    channel: 'SiM Official YouTube Channel',
+    thumbnail: 'https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1200&q=85',
+    description: 'Eren Jaeger va devlar to‘fonining eng dahshatli va epik ochilish saundtreki.'
+  },
+  {
+    id: 'yt-3',
+    youtubeId: 'M2cckDmNLMI',
+    title: 'Kenshi Yonezu - KICK BACK (Chainsaw Man Opening)',
+    anime: 'Chainsaw Man',
+    category: 'Anime Openings',
+    views: '188M',
+    duration: '03:14',
+    channel: 'Kenshi Yonezu 米津玄師',
+    thumbnail: 'https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=85',
+    description: 'Denji va qonli zanjirli arra olamining telba ritmli shov-shuvli musiqasi.'
+  },
+  {
+    id: 'yt-4',
+    youtubeId: 'v8bseiYC0-8',
+    title: 'Eve - Kaikai Kitan (Jujutsu Kaisen Opening 1)',
+    anime: 'Jujutsu Kaisen',
+    category: 'Popular Anime',
+    views: '340M',
+    duration: '03:42',
+    channel: 'Eve Official',
+    thumbnail: 'https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1200&q=85',
+    description: 'Gojo Satoru, Yuji Itadori va la\'nati ruhlar olami boshlanishi.'
+  },
+  {
+    id: 'yt-5',
+    youtubeId: 'gcgKUcJKxIs',
+    title: 'King Gnu - SPECIALZ (Jujutsu Kaisen Shibuya Incident)',
+    anime: 'Jujutsu Kaisen',
+    category: 'Anime Openings',
+    views: '115M',
+    duration: '03:58',
+    channel: 'King Gnu official YouTube channel',
+    thumbnail: 'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1200&q=85',
+    description: 'Shibuya fojiasi va Gojo Satoruning muhrlanish sahnasi musiqasi.'
+  },
+  {
+    id: 'yt-6',
+    youtubeId: 'CwkzK-F0Y00',
+    title: 'LiSA - Gurenge (Demon Slayer: Kimetsu no Yaiba OP)',
+    anime: 'Demon Slayer',
+    category: 'Popular Anime',
+    views: '310M',
+    duration: '03:59',
+    channel: 'LiSA Official YouTube Channel',
+    thumbnail: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=85',
+    description: 'Tanjiro Kamadoning Nezuko uchun kurashi aks etgan afsonaviy anime ochilishi.'
+  },
+  {
+    id: 'yt-7',
+    youtubeId: 'tLQLa6lM3Us',
+    title: 'Aimer - Zankyosanka (Demon Slayer Entertainment District Arc)',
+    anime: 'Demon Slayer',
+    category: 'Anime Openings',
+    views: '195M',
+    duration: '03:04',
+    channel: 'Aimer Official YouTube Channel',
+    thumbnail: 'https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1200&q=85',
+    description: 'Ovoz Hashirasi Tengen Uzui va olovli janglarning yorqin ochilish saundtreki.'
+  },
+  {
+    id: 'yt-8',
+    youtubeId: '7aMOurgDB-o',
+    title: 'TK from Ling tosite sigure - Unravel (Tokyo Ghoul OP)',
+    anime: 'Tokyo Ghoul',
+    category: 'Anime AMV',
+    views: '240M',
+    duration: '04:00',
+    channel: 'Ling tosite sigure Official',
+    thumbnail: 'https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=1200&q=85',
+    description: 'Kaneki Kenning fojiasi va oq sochga aylanish lahzasi. Anime tarixidagi eng mashhur qo‘shiq.'
+  },
+  {
+    id: 'yt-9',
+    youtubeId: 'dlFA0Zq1k2A',
+    title: 'KANA-BOON - Silhouette (Naruto Shippuden Opening 16)',
+    anime: 'Naruto Shippuden',
+    category: 'Popular Anime',
+    views: '280M',
+    duration: '04:02',
+    channel: 'KANA-BOON Official YouTube Channel',
+    thumbnail: 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=85',
+    description: 'Naruto va Sasuke o‘rtasidagi do‘stlik, intilish va Buyuk Shinobilar Urushi.'
+  },
+  {
+    id: 'yt-10',
+    youtubeId: 'KpsJWFuEPdI',
+    title: 'Ikimono Gakari - Blue Bird (Naruto Shippuden OP 3)',
+    anime: 'Naruto Shippuden',
+    category: 'Anime Openings',
+    views: '175M',
+    duration: '03:36',
+    channel: 'Ikimonogakari',
+    thumbnail: 'https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1200&q=85',
+    description: 'Moviy osmonga parvoz qilgan qush timsoli va barcha animeshiklarning sevimli nostaljisi.'
+  },
+  {
+    id: 'yt-11',
+    youtubeId: '1FliVTcX8bQ',
+    title: 'Ado - New Genesis (One Piece Film Red Asosiy Qo‘shig‘i)',
+    anime: 'One Piece',
+    category: 'Popular Anime',
+    views: '210M',
+    duration: '03:47',
+    channel: 'Ado',
+    thumbnail: 'https://images.unsplash.com/photo-1549887534-1541e9326642?auto=format&fit=crop&w=1200&q=85',
+    description: 'Uta ning dunyoni o‘zgartirmoqchi bo‘lgan aqlbovar qilmas ovozi va One Piece musiqasi.'
+  },
+  {
+    id: 'yt-12',
+    youtubeId: 'A6tT_yZ_t54',
+    title: 'Hiroshi Kitadani - We Are! (One Piece Afsonaviy 1-Opening)',
+    anime: 'One Piece',
+    category: 'Anime Openings',
+    views: '88M',
+    duration: '04:01',
+    channel: 'One Piece Official Anime Channel',
+    thumbnail: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85',
+    description: 'Luffyning dengizlarga chiqqan ilk lahzalari va barcha qaroqchilar orzusi.'
+  },
+  {
+    id: 'yt-13',
+    youtubeId: 'CbH2F0kXgTY',
+    title: 'Official HIGE DANdism - Mixed Nuts (SPY x FAMILY OP)',
+    anime: 'Spy x Family',
+    category: 'Anime Openings',
+    views: '145M',
+    duration: '03:33',
+    channel: 'Official HIGE DANdism',
+    thumbnail: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=1200&q=85',
+    description: 'Anya, Loid va Yor Forgerlar oilasining sirli va kulgili kundalik hayoti.'
+  },
+  {
+    id: 'yt-14',
+    youtubeId: '3G9Q7Uq-YF8',
+    title: 'Tatsuya Kitani - Scar (Bleach: Thousand-Year Blood War OP)',
+    anime: 'Bleach',
+    category: 'Anime Openings',
+    views: '42M',
+    duration: '04:21',
+    channel: 'Tatsuya Kitani Official',
+    thumbnail: 'https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=1200&q=85',
+    description: 'Kurosaki Ichigo va Soul Societyning qaytishi. Eng yuqori sifatdagi zamonaviy anime.'
+  },
+  {
+    id: 'yt-15',
+    youtubeId: 'PDSkFeMVNFs',
+    title: 'RADWIMPS - Zenzenzense (Your Name / Kimi no Na wa)',
+    anime: 'Your Name (Kimi no Na wa)',
+    category: 'Anime AMV',
+    views: '320M',
+    duration: '04:45',
+    channel: 'RADWIMPS',
+    thumbnail: 'https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1200&q=85',
+    description: 'Taki va Mitsuhaning yulduzlar tushgan tunda bir-birini izlashi. Makoto Shinkai durdonasi.'
+  },
+  {
+    id: 'yt-16',
+    youtubeId: 'a5qWvV8G5S8',
+    title: 'RADWIMPS feat. Toaka - Suzume (Suzume no Tojimari)',
+    anime: 'Suzume',
+    category: 'Anime AMV',
+    views: '110M',
+    duration: '03:58',
+    channel: 'RADWIMPS',
+    thumbnail: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=85',
+    description: 'Eshiklarni yopish safaridagi go‘zal qiz Suzume va uning mistik sarguzashtlari.'
+  },
+  {
+    id: 'yt-17',
+    youtubeId: 'kXlzv1_w1f8',
+    title: 'NIGHTMARE - The WORLD (Death Note Opening 1)',
+    anime: 'Death Note',
+    category: 'Popular Anime',
+    views: '95M',
+    duration: '03:45',
+    channel: 'NIGHTMARE Official',
+    thumbnail: 'https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=85',
+    description: 'Yagami Light va L o‘rtasidagi dahoona aql jangi hamda O‘lim Daftari qonunlari.'
+  },
+  {
+    id: 'yt-18',
+    youtubeId: '2uq34TeWEdQ',
+    title: 'YUI - Again (Fullmetal Alchemist: Brotherhood OP 1)',
+    anime: 'Fullmetal Alchemist: Brotherhood',
+    category: 'Anime Openings',
+    views: '130M',
+    duration: '04:15',
+    channel: 'Sony Music (Japan)',
+    thumbnail: 'https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?auto=format&fit=crop&w=1200&q=85',
+    description: 'Edward va Alphonse Elriclarning Falsafa toshini izlab boshlagan yo‘li.'
+  },
+  {
+    id: 'yt-19',
+    youtubeId: 'faqmNf_fZlE',
+    title: 'Masatoshi Ono - departure! (Hunter x Hunter 2011 Opening)',
+    anime: 'Hunter x Hunter',
+    category: 'Popular Anime',
+    views: '85M',
+    duration: '04:18',
+    channel: 'VAP Official',
+    thumbnail: 'https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&w=1200&q=85',
+    description: 'Gon Freecss va Killua Zoldyckning ovchilar imtihoni hamda do‘stlik sayohati.'
+  },
+  {
+    id: 'yt-20',
+    youtubeId: 'o2d68xWf2x8',
+    title: 'Solo Leveling Rasmiy 2-Mavsum Tizer Treyleri (Arise)',
+    anime: 'Solo Leveling',
+    category: 'Anime Trailers',
+    views: '18M',
+    duration: '02:15',
+    channel: 'Aniplex USA',
+    thumbnail: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=85',
+    description: 'Sung Jin-woo ning qizil darvozalar va S-darajali monstrlar bilan kutilgan to‘qnashuvi.'
+  },
+  {
+    id: 'yt-21',
+    youtubeId: 'KId6eunoiW8',
+    title: 'LiSA - crossing field (Sword Art Online OP 1)',
+    anime: 'Sword Art Online',
+    category: 'Anime Openings',
+    views: '140M',
+    duration: '04:08',
+    channel: 'LiSA Official YouTube Channel',
+    thumbnail: 'https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&q=85',
+    description: 'Kirito va Asunaning Aincrad virtual olamida hayot-mamot jangi.'
+  },
+  {
+    id: 'yt-22',
+    youtubeId: 'f0g77sDqY1Y',
+    title: 'Demon Slayer: Tanjiro vs Rui - Hinokami Kagura Epik Sahna',
+    anime: 'Demon Slayer',
+    category: 'Anime Scenes',
+    views: '75M',
+    duration: '05:30',
+    channel: 'Ufotable Animation',
+    thumbnail: 'https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1200&q=85',
+    description: 'Olov nafasi birinchi bor uyg‘ongan afsonaviy 19-epizod jangi. Ufotable grafika cho‘qqisi.'
+  }
+];
+
