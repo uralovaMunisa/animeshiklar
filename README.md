@@ -56,3 +56,4 @@ Loyiha uchun avtomatlashtirilgan `.github/workflows/deploy.yml` CI/CD skripti ma
 2. GitHub'da reponing **Settings** -> **Pages** bo'limiga o'ting.
 3. **Build and deployment** bo'limidagi **Source** parametrini **GitHub Actions** ga o'zgartiring.
 4. Har bir `push` qilinganda loyiha avtomatik build bo'lib, jonli efirga (deploy) chiqadi.
+
