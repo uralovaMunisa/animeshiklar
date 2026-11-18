@@ -39,7 +39,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Jujutsu Kaisen — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -47,7 +47,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Jujutsu Kaisen — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -55,7 +55,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Jujutsu Kaisen — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -63,7 +63,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Jujutsu Kaisen — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -71,7 +71,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Jujutsu Kaisen — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -79,7 +79,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Jujutsu Kaisen — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -94,7 +94,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Trending",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-demon-slayer-kimetsu-no-yaiba-original-japanese-version",
@@ -118,7 +118,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Demon Slayer: Kimetsu no Yaiba (Original Japanese Version) — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -126,7 +126,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Demon Slayer: Kimetsu no Yaiba (Original Japanese Version) — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -134,7 +134,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Demon Slayer: Kimetsu no Yaiba (Original Japanese Version) — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -142,7 +142,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Demon Slayer: Kimetsu no Yaiba (Original Japanese Version) — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -150,7 +150,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Demon Slayer: Kimetsu no Yaiba (Original Japanese Version) — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -158,7 +158,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Demon Slayer: Kimetsu no Yaiba (Original Japanese Version) — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -173,7 +173,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Trending",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-devils-crest",
@@ -197,7 +197,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Devils' Crest — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -205,7 +205,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Devils' Crest — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -213,7 +213,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Devils' Crest — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -221,7 +221,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Devils' Crest — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -229,7 +229,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Devils' Crest — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -237,7 +237,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Devils' Crest — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -252,7 +252,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Trending",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-vinland-saga",
@@ -276,7 +276,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: VINLAND SAGA — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -284,7 +284,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: VINLAND SAGA — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -292,7 +292,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: VINLAND SAGA — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -300,7 +300,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: VINLAND SAGA — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -308,7 +308,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: VINLAND SAGA — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -316,7 +316,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: VINLAND SAGA — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -331,7 +331,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Trending",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-dororo",
@@ -355,7 +355,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Dororo — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -363,7 +363,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Dororo — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -371,7 +371,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Dororo — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -379,7 +379,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Dororo — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -387,7 +387,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Dororo — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -395,7 +395,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Dororo — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -410,7 +410,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Trending",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-the-seven-knights-of-the-marronnier-kingdom",
@@ -434,7 +434,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: The Seven Knights of the Marronnier Kingdom — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -442,7 +442,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: The Seven Knights of the Marronnier Kingdom — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -450,7 +450,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: The Seven Knights of the Marronnier Kingdom — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -458,7 +458,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: The Seven Knights of the Marronnier Kingdom — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -466,7 +466,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: The Seven Knights of the Marronnier Kingdom — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -474,7 +474,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: The Seven Knights of the Marronnier Kingdom — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -489,7 +489,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-from-old-country-bumpkin-to-master-swordsman",
@@ -513,7 +513,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: From Old Country Bumpkin to Master Swordsman — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -521,7 +521,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: From Old Country Bumpkin to Master Swordsman — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -529,7 +529,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: From Old Country Bumpkin to Master Swordsman — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -537,7 +537,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: From Old Country Bumpkin to Master Swordsman — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -545,7 +545,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: From Old Country Bumpkin to Master Swordsman — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -553,7 +553,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: From Old Country Bumpkin to Master Swordsman — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -568,7 +568,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-tank-chair",
@@ -592,7 +592,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: TANK CHAIR — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -600,7 +600,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: TANK CHAIR — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -608,7 +608,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: TANK CHAIR — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -616,7 +616,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: TANK CHAIR — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -624,7 +624,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: TANK CHAIR — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -632,7 +632,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: TANK CHAIR — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -647,7 +647,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-a-star-brighter-than-the-sun",
@@ -671,7 +671,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: A Star Brighter Than the Sun — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -679,7 +679,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: A Star Brighter Than the Sun — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -687,7 +687,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: A Star Brighter Than the Sun — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -695,7 +695,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: A Star Brighter Than the Sun — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -703,7 +703,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: A Star Brighter Than the Sun — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -711,7 +711,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: A Star Brighter Than the Sun — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -726,7 +726,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
@@ -750,7 +750,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -758,7 +758,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -766,7 +766,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -774,7 +774,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -782,7 +782,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -790,7 +790,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -805,7 +805,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
@@ -829,7 +829,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Demon Slayer: Kimetsu no Yaiba Hashira Training Arc — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -837,7 +837,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Demon Slayer: Kimetsu no Yaiba Hashira Training Arc — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -845,7 +845,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Demon Slayer: Kimetsu no Yaiba Hashira Training Arc — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -853,7 +853,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Demon Slayer: Kimetsu no Yaiba Hashira Training Arc — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -861,7 +861,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Demon Slayer: Kimetsu no Yaiba Hashira Training Arc — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -869,7 +869,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Demon Slayer: Kimetsu no Yaiba Hashira Training Arc — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -884,7 +884,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-demon-slayer-kimetsu-no-yaiba-mugen-train-arc",
@@ -908,7 +908,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Demon Slayer: Kimetsu no Yaiba Mugen Train Arc — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -916,7 +916,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Demon Slayer: Kimetsu no Yaiba Mugen Train Arc — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -924,7 +924,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Demon Slayer: Kimetsu no Yaiba Mugen Train Arc — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -932,7 +932,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Demon Slayer: Kimetsu no Yaiba Mugen Train Arc — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -940,7 +940,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Demon Slayer: Kimetsu no Yaiba Mugen Train Arc — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -948,7 +948,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Demon Slayer: Kimetsu no Yaiba Mugen Train Arc — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -963,7 +963,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
@@ -987,7 +987,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Demon Slayer: Kimetsu no Yaiba Entertainment District Arc — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -995,7 +995,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Demon Slayer: Kimetsu no Yaiba Entertainment District Arc — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1003,7 +1003,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Demon Slayer: Kimetsu no Yaiba Entertainment District Arc — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1011,7 +1011,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Demon Slayer: Kimetsu no Yaiba Entertainment District Arc — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1019,7 +1019,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Demon Slayer: Kimetsu no Yaiba Entertainment District Arc — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1027,7 +1027,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Demon Slayer: Kimetsu no Yaiba Entertainment District Arc — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1042,7 +1042,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-nippon-sangoku-the-three-nations-of-the-crimson-sun",
@@ -1066,7 +1066,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: NIPPON SANGOKU: The Three Nations of the Crimson Sun — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1074,7 +1074,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: NIPPON SANGOKU: The Three Nations of the Crimson Sun — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1082,7 +1082,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: NIPPON SANGOKU: The Three Nations of the Crimson Sun — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1090,7 +1090,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: NIPPON SANGOKU: The Three Nations of the Crimson Sun — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1098,7 +1098,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: NIPPON SANGOKU: The Three Nations of the Crimson Sun — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1106,7 +1106,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: NIPPON SANGOKU: The Three Nations of the Crimson Sun — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1121,7 +1121,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-the-ghost-in-the-shell",
@@ -1145,7 +1145,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: THE GHOST IN THE SHELL — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1153,7 +1153,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: THE GHOST IN THE SHELL — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1161,7 +1161,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: THE GHOST IN THE SHELL — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1169,7 +1169,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: THE GHOST IN THE SHELL — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1177,7 +1177,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: THE GHOST IN THE SHELL — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1185,7 +1185,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: THE GHOST IN THE SHELL — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1200,7 +1200,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-bel-blatt",
@@ -1224,7 +1224,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Übel Blatt — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1232,7 +1232,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Übel Blatt — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1240,7 +1240,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Übel Blatt — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1248,7 +1248,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Übel Blatt — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1256,7 +1256,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Übel Blatt — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1264,7 +1264,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Übel Blatt — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1279,7 +1279,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-fist-of-the-north-star-hokuto-no-ken",
@@ -1303,7 +1303,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Fist of the North Star: HOKUTO NO KEN — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1311,7 +1311,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Fist of the North Star: HOKUTO NO KEN — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1319,7 +1319,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Fist of the North Star: HOKUTO NO KEN — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1327,7 +1327,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Fist of the North Star: HOKUTO NO KEN — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1335,7 +1335,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Fist of the North Star: HOKUTO NO KEN — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1343,7 +1343,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Fist of the North Star: HOKUTO NO KEN — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1358,7 +1358,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-the-dinner-table-detective",
@@ -1382,7 +1382,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: The Dinner Table Detective — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1390,7 +1390,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: The Dinner Table Detective — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1398,7 +1398,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: The Dinner Table Detective — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1406,7 +1406,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: The Dinner Table Detective — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1414,7 +1414,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: The Dinner Table Detective — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1422,7 +1422,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: The Dinner Table Detective — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1437,7 +1437,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-tatsuki-fujimoto-17-26",
@@ -1461,7 +1461,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Tatsuki Fujimoto 17-26 — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1469,7 +1469,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Tatsuki Fujimoto 17-26 — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1477,7 +1477,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Tatsuki Fujimoto 17-26 — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1485,7 +1485,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Tatsuki Fujimoto 17-26 — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1493,7 +1493,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Tatsuki Fujimoto 17-26 — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1501,7 +1501,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Tatsuki Fujimoto 17-26 — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1516,7 +1516,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-ninja-vs-gokudo",
@@ -1540,7 +1540,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Ninja Vs. Gokudo — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1548,7 +1548,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Ninja Vs. Gokudo — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1556,7 +1556,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Ninja Vs. Gokudo — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1564,7 +1564,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Ninja Vs. Gokudo — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1572,7 +1572,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Ninja Vs. Gokudo — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1580,7 +1580,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Ninja Vs. Gokudo — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1595,7 +1595,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-the-darwin-incident",
@@ -1619,7 +1619,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: The Darwin Incident — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1627,7 +1627,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: The Darwin Incident — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1635,7 +1635,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: The Darwin Incident — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1643,7 +1643,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: The Darwin Incident — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1651,7 +1651,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: The Darwin Incident — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1659,7 +1659,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: The Darwin Incident — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1674,7 +1674,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-blade-of-the-immortal",
@@ -1698,7 +1698,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Blade of the Immortal — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1706,7 +1706,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Blade of the Immortal — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1714,7 +1714,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Blade of the Immortal — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1722,7 +1722,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Blade of the Immortal — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1730,7 +1730,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Blade of the Immortal — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1738,7 +1738,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Blade of the Immortal — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1753,7 +1753,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-ghost-in-the-shell-arise-border-1-ghost-pain",
@@ -1777,7 +1777,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Ghost in the Shell Arise: Border 1 - Ghost Pain — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1785,7 +1785,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Ghost in the Shell Arise: Border 1 - Ghost Pain — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1793,7 +1793,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Ghost in the Shell Arise: Border 1 - Ghost Pain — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1801,7 +1801,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Ghost in the Shell Arise: Border 1 - Ghost Pain — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1809,7 +1809,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Ghost in the Shell Arise: Border 1 - Ghost Pain — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1817,7 +1817,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Ghost in the Shell Arise: Border 1 - Ghost Pain — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1832,7 +1832,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-mobile-suit-gundam-gquuuuuux",
@@ -1856,7 +1856,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Mobile Suit Gundam GQuuuuuuX — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1864,7 +1864,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Mobile Suit Gundam GQuuuuuuX — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1872,7 +1872,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Mobile Suit Gundam GQuuuuuuX — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1880,7 +1880,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Mobile Suit Gundam GQuuuuuuX — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1888,7 +1888,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Mobile Suit Gundam GQuuuuuuX — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1896,7 +1896,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Mobile Suit Gundam GQuuuuuuX — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1911,7 +1911,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-city-the-animation",
@@ -1935,7 +1935,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: CITY THE ANIMATION — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1943,7 +1943,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: CITY THE ANIMATION — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1951,7 +1951,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: CITY THE ANIMATION — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1959,7 +1959,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: CITY THE ANIMATION — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1967,7 +1967,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: CITY THE ANIMATION — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -1975,7 +1975,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: CITY THE ANIMATION — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -1990,7 +1990,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-sanda",
@@ -2014,7 +2014,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: SANDA — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2022,7 +2022,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: SANDA — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2030,7 +2030,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: SANDA — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2038,7 +2038,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: SANDA — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2046,7 +2046,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: SANDA — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2054,7 +2054,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: SANDA — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2069,7 +2069,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-magilumiere-magical-girls-inc",
@@ -2093,7 +2093,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Magilumiere Magical Girls Inc. — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2101,7 +2101,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Magilumiere Magical Girls Inc. — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2109,7 +2109,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Magilumiere Magical Girls Inc. — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2117,7 +2117,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Magilumiere Magical Girls Inc. — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2125,7 +2125,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Magilumiere Magical Girls Inc. — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2133,7 +2133,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Magilumiere Magical Girls Inc. — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2148,7 +2148,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-new-panty-stocking-with-garterbelt",
@@ -2172,7 +2172,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: New PANTY & STOCKING with GARTERBELT — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2180,7 +2180,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: New PANTY & STOCKING with GARTERBELT — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2188,7 +2188,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: New PANTY & STOCKING with GARTERBELT — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2196,7 +2196,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: New PANTY & STOCKING with GARTERBELT — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2204,7 +2204,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: New PANTY & STOCKING with GARTERBELT — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2212,7 +2212,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: New PANTY & STOCKING with GARTERBELT — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2227,7 +2227,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-psycho-pass-3",
@@ -2251,7 +2251,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: PSYCHO-PASS 3 — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2259,7 +2259,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: PSYCHO-PASS 3 — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2267,7 +2267,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: PSYCHO-PASS 3 — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2275,7 +2275,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: PSYCHO-PASS 3 — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2283,7 +2283,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: PSYCHO-PASS 3 — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2291,7 +2291,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: PSYCHO-PASS 3 — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2306,7 +2306,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-babylon",
@@ -2330,7 +2330,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: BABYLON — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2338,7 +2338,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: BABYLON — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2346,7 +2346,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: BABYLON — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2354,7 +2354,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: BABYLON — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2362,7 +2362,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: BABYLON — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2370,7 +2370,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: BABYLON — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2385,7 +2385,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "pv-karakuri-circus",
@@ -2409,7 +2409,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Karakuri Circus — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2417,7 +2417,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Karakuri Circus — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2425,7 +2425,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Karakuri Circus — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2433,7 +2433,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Karakuri Circus — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2441,7 +2441,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Karakuri Circus — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2449,7 +2449,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Karakuri Circus — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2464,7 +2464,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "pv-pet",
@@ -2488,7 +2488,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: pet — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2496,7 +2496,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: pet — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2504,7 +2504,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: pet — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2512,7 +2512,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: pet — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2520,7 +2520,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: pet — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2528,7 +2528,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: pet — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2543,7 +2543,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "pv-ghost-in-the-shell-arise-pyrophoric-cult",
@@ -2567,7 +2567,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Ghost in the Shell ARISE PYROPHORIC CULT — Epik Voqealar Rivoji",
         "duration": "24:17",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2575,7 +2575,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Ghost in the Shell ARISE PYROPHORIC CULT — Epik Voqealar Rivoji",
         "duration": "25:24",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2583,7 +2583,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 3,
         "title": "3-qism: Ghost in the Shell ARISE PYROPHORIC CULT — Epik Voqealar Rivoji",
         "duration": "23:31",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2591,7 +2591,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 4,
         "title": "4-qism: Ghost in the Shell ARISE PYROPHORIC CULT — Epik Voqealar Rivoji",
         "duration": "24:38",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2599,7 +2599,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 5,
         "title": "5-qism: Ghost in the Shell ARISE PYROPHORIC CULT — Epik Voqealar Rivoji",
         "duration": "25:45",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2607,7 +2607,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 6,
         "title": "6-qism: Ghost in the Shell ARISE PYROPHORIC CULT — Epik Voqealar Rivoji",
         "duration": "23:52",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2622,7 +2622,7 @@ export const ANIME_MOVIES_DATA = [
     "officialPlatform": "Amazon Prime Video",
     "status": "Top Reyting",
     "isOriginalPrimeVideo": true,
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-konosuba",
@@ -2646,7 +2646,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: KonoSuba: Legend of Crimson (Qizil Afsona) (To'liq Qism)",
         "duration": "1h 30m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2654,7 +2654,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: KonoSuba: Legend of Crimson (Qizil Afsona) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2668,7 +2668,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Kazuma va uning g'alati jamoasi (Megumin, Aqua, Darkness) Meguminning tug'ilib o'sgan sehrli Qizil Sehrgarlar qishlog'ini Iblis Qirolining qudratli generallaridan qutqarish uchun kulgili, betakror va portlashlarga boy sarguzashtga otlanadilar.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Trending",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-spy-family-white",
@@ -2691,7 +2691,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Spy x Family Code: White (Ayg'oqchi Oila: Oq Kod) (To'liq Qism)",
         "duration": "1h 50m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2699,7 +2699,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Spy x Family Code: White (Ayg'oqchi Oila: Oq Kod) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2713,7 +2713,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Loid Forger, qotil rafiqasi Yor va fikrni o'qiy oluvchi qizi Anya oilaviy qishki sayohatga otlanadilar. Anya tasodifan butun dunyo tinchligiga tahdid soluvchi maxfiy mikrofilmli shokoladni yutib yuboradi va quvnoq ayg'oqchilik qiyofasi boshlanadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-gintama-final",
@@ -2736,7 +2736,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Gintama: The Very Final (So'nggi Final) (To'liq Qism)",
         "duration": "1h 44m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2744,7 +2744,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Gintama: The Very Final (So'nggi Final) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2758,7 +2758,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Sakata Gintoki, Shinpachi va Kagura o'zlarining sobiq ustozi Shoyo (Utsuro)ga qarshi barcha do'stlari va dushmanlarini birlashtirib, misli ko'rilmagan o'tkir yumor va shafqatsiz janglar ichida yer yuzini qutqaradilar.",
     "officialPlatform": "Animem.uz / Netflix",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-mashle",
@@ -2782,7 +2782,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Mashle: Sehr va Muskullar (Magic and Muscles) (To'liq Qism)",
         "duration": "1h 35m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2790,7 +2790,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Mashle: Sehr va Muskullar (Magic and Muscles) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2804,7 +2804,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Sehrgarlar olamida tug'ilib, zarracha sehr qudratiga ega bo'lmagan Mash Burnedead faqat o'zining po'latday baquvvat muskullari va qaymoqli kremli ponchiklariga bo'lgan cheksiz muhabbati bilan eng nufuzli Sehr Akademiyasining daho talabalarini sharmanda qiladi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Trending",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-saiki-k",
@@ -2827,7 +2827,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: The Disastrous Life of Saiki K.: Final Arc (Saiki Kusuo) (To'liq Qism)",
         "duration": "55m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2835,7 +2835,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: The Disastrous Life of Saiki K.: Final Arc (Saiki Kusuo) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2849,7 +2849,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Telepatiya, telekinez va barcha g'ayritabiiy qudratlarga ega Saiki Kusuo faqat oddiy va tinch hayot kechirishni xohlaydi. Ammo uning mutlaqo telba sinfdoshlari har safar uni dunyoni qutqarishga va kulgili sarguzashtlarga majbur qiladi.",
     "officialPlatform": "Animem.uz / Netflix",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-grand-blue",
@@ -2872,7 +2872,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Grand Blue Dreaming (Moviy Ummon) (To'liq Qism)",
         "duration": "1h 40m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2880,7 +2880,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Grand Blue Dreaming (Moviy Ummon) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2894,7 +2894,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Iori Kitahara qirg'oq bo'yidagi shaharchaga universitetga o'qishga boradi. U amakisining g'avvoslar do'koniga joylashib, kutilmaganda universitetning eng quvnoq va aqldan ozgan g'avvoslar klubi a'zolariga aylanadi.",
     "officialPlatform": "Animem.uz / Prime Video",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-kaguya-sama",
@@ -2917,7 +2917,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Kaguya-sama: The First Kiss That Never Ends (To'liq Qism)",
         "duration": "1h 36m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2925,7 +2925,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Kaguya-sama: The First Kiss That Never Ends — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2939,7 +2939,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Kaguya Shinomiya va Miyuki Shirogane orasidagi aql bovar qilmas intellektual va kulgili sevgi izhori jangi davom etadi. Rojdestvo arafasida ular bir-birlarining samimiy tuyg'ularini sinovdan o'tkazishadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-one-punch-man",
@@ -2962,7 +2962,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: One-Punch Man: Qahramon Yo'li (Road to Hero) (To'liq Qism)",
         "duration": "45m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -2970,7 +2970,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: One-Punch Man: Qahramon Yo'li (Road to Hero) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -2984,7 +2984,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Saitama hali sochini to'kib mutlaq yengilmas bo'lmagan davrlarda qanday qilib oddiy kvartirada jismoniy mashg'ulotlar o'tagani va birinchi sariq kostyumini qanday tikkani haqidagi kulgili va qiziqarli hikoya.",
     "officialPlatform": "Animem.uz / Netflix",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-bocchi-rock",
@@ -3007,7 +3007,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Bocchi the Rock! Film: Re:Re: (To'liq Qism)",
         "duration": "1h 31m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3015,7 +3015,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Bocchi the Rock! Film: Re:Re: — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3029,7 +3029,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Ijtimoiy qo'rquvga ega va shkafda gitara chaluvchi o'ta uyatchan Hitori Goto (Bocchi) tasodifan Kessoku Band guruhiga qo'shiladi va o'zining kulgili ichki monologlari bilan sahnada rok musiqasini portlatadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Trending",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-jujutsu-kaisen-0",
@@ -3052,7 +3052,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Jujutsu Kaisen 0 (La'natlangan Sevgi) (To'liq Qism)",
         "duration": "1h 45m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3060,7 +3060,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Jujutsu Kaisen 0 (La'natlangan Sevgi) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3074,7 +3074,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Yuta Okkotsu o'zining marhum sevgilisi Rika Orimotoning qudratli maxluqqa aylangan la'natidan aziyat chekadi. Satoru Gojo uni sehrgarlar texnikumiga taklif qilib, la'natni jilovlashni va Geto Suguru ga qarshi kurashishni o'rgatadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-demon-slayer-mugen",
@@ -3097,7 +3097,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Demon Slayer: Cheksiz Poyezd (Mugen Train) (To'liq Qism)",
         "duration": "1h 57m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3105,7 +3105,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Demon Slayer: Cheksiz Poyezd (Mugen Train) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3119,7 +3119,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Tanjiro, Nezuko, Zenitsu va Inosuke Olov Hashirasi Kyojuro Rengoku bilan birgalikda sirli ravishda 40 dan ortiq yo'lovchilari g'oyib bo'layotgan Cheksiz poyezdda Enmu va Yuqori Darajali Akazaga qarshi afsonaviy jangga kirishadilar.",
     "officialPlatform": "Animem.uz / Crunchyroll / Netflix",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-solo-leveling-reawaken",
@@ -3142,7 +3142,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Solo Leveling: ReAwakening (Qayta Uyg‘onish) (To'liq Qism)",
         "duration": "1h 50m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3150,7 +3150,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Solo Leveling: ReAwakening (Qayta Uyg‘onish) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3164,7 +3164,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Insoniyatning eng zaif E-darajali ovchisi Sung Jinwoo dahshatli ikki qavatli zindonda o'lim yoqasida Tizim o'yinchisiga aylanadi. U yakka o'zi cheksiz darajalarni oshirib, dunyodagi eng qudratli Soyalar Hukmdoriga aylanadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Premyera",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-aot-last-attack",
@@ -3187,7 +3187,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Attack on Titan: The Last Attack (Oxirgi Hujum) (To'liq Qism)",
         "duration": "2h 25m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3195,7 +3195,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Attack on Titan: The Last Attack (Oxirgi Hujum) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3209,7 +3209,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Eren Yeager butun dunyoni qirib tashlash uchun millionlab devor titanlarini ozod qilib Gumburlashni boshlaydi. Armin, Mikasa, Levi va uning barcha sobiq safdoshlari insoniyat kelajagi uchun so'nggi nafaslarigacha jangga kirishadilar.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-bleach-hell-verse",
@@ -3232,7 +3232,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Bleach: Do'zax Rishtasi (Hell Verse) (To'liq Qism)",
         "duration": "1h 34m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3240,7 +3240,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Bleach: Do'zax Rishtasi (Hell Verse) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3254,7 +3254,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Do'zax gunohkorlari zanjirlardan xalos bo'lish uchun Karakura shahriga bostirib kirib, Ichigoning singlisini o'g'irlab ketishadi. Ichigo do'zax qa'riga tushib, o'zining Hollow qora quvvatini to'liq ochib yuboradi.",
     "officialPlatform": "Animem.uz / Netflix",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-naruto-road-ninja",
@@ -3277,7 +3277,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Naruto Shippuden: Ninjalar Yo‘li (Road to Ninja) (To'liq Qism)",
         "duration": "1h 49m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3285,7 +3285,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Naruto Shippuden: Ninjalar Yo‘li (Road to Ninja) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3299,7 +3299,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Tobi Narutoni va Sakurani muqobil haqiqat oynasiga tushiradi. U yerda Narutoning ota-onasi Minato va Kushina tirik, ammo barcha do'stlarining fe'l-atvori butunlay teskarisiga o'zgargan bo'ladi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Trending",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-fate-stay-night",
@@ -3322,7 +3322,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Fate/stay night: Heaven's Feel III. Spring Song (To'liq Qism)",
         "duration": "2h 02m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3330,7 +3330,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Fate/stay night: Heaven's Feel III. Spring Song — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3344,7 +3344,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Muqaddas Grallar urushining eng qorong'i va shafqatsiz yakuni. Shirou Emiya o'z ideallaridan voz kechib bo'lsa ham, qorong'ulik girdobiga tushgan Sakurani qutqarish uchun Berserker va Kotomine Kirei ga qarshi jang qiladi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-dragon-ball-super",
@@ -3367,7 +3367,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Dragon Ball Super: Super Hero (To'liq Qism)",
         "duration": "1h 40m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3375,7 +3375,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Dragon Ball Super: Super Hero — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3389,7 +3389,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Qizil Lenta armiyasi yangi super-androidlar Gamma 1 va Gamma 2 ni yaratadi. Gohan va Piccolo yer yuzini yangi maxluq Cell Max xataridan asrab qolish uchun o'zlarining eng yuqori yangi shakllarini ochishadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-one-piece-red",
@@ -3412,7 +3412,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: One Piece Film: Red (Qizil Film) (To'liq Qism)",
         "duration": "1h 55m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3420,7 +3420,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: One Piece Film: Red (Qizil Film) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3434,7 +3434,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Dunyodagi eng sevimli qudratli xonanda Uta o'zining ilk jonli konsertini o'tkazadi va u Qizil Sochli Shanksning qizi ekani oshkor bo'ladi. Luffy va uning jamoasi orol aholisini qutqarish uchun buyuk to'qnashuvda ishtirok etadi.",
     "officialPlatform": "Animem.uz / Crunchyroll / Netflix",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-spirited-away",
@@ -3457,7 +3457,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Spirited Away (Ruhlar Iskanjasida) (To'liq Qism)",
         "duration": "2h 05m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3465,7 +3465,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Spirited Away (Ruhlar Iskanjasida) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3479,7 +3479,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "10 yoshli Chihiro va uning ota-onasi tashlab ketilgan ko'ngilochar bog'ga tushib qolishadi. Chihiro ota-onasini qutqarish uchun jodugar Yubabaning sehrli ruhlar olamida mehnat qilishga majbur bo'ladi. Oskar mukofoti sohibi.",
     "officialPlatform": "Animem.uz / Netflix",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-princess-mononoke",
@@ -3502,7 +3502,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Princess Mononoke (Malika Mononoke) (To'liq Qism)",
         "duration": "2h 14m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3510,7 +3510,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Princess Mononoke (Malika Mononoke) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3524,7 +3524,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Shahzoda Ashitaka la'natdan qutulish yo'lida tabiat ma'budalari, ulkan bo'rilar tomonidan tarbiyalangan San va insonlar sanoati o'rtasidagi shiddatli urush maydoniga kirib qoladi.",
     "officialPlatform": "Animem.uz / Netflix",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-frieren-special",
@@ -3547,7 +3547,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Frieren: Beyond Journey’s End (Safar Intihosi) (To'liq Qism)",
         "duration": "1h 30m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3555,7 +3555,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Frieren: Beyond Journey’s End (Safar Intihosi) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3569,7 +3569,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Iblis Qirolini mag'lub etgan qahramonlar safi tarqalgach, ming yillar yashovchi elflar sehrgari Frieren insonlarning qisqa umri va do'stlik tuyg'usini chuqur anglash uchun yangi shogirdlari bilan dunyo bo'ylab safarga otlanadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-hunter-phantom-rouge",
@@ -3592,7 +3592,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Hunter x Hunter: Qizil Arvoh (Phantom Rouge) (To'liq Qism)",
         "duration": "1h 37m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3600,7 +3600,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Hunter x Hunter: Qizil Arvoh (Phantom Rouge) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3614,7 +3614,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Kurapika ning qizil ko'zlari sobiq 4-raqamli Gen'ei Ryodan a'zosi Omokage tomonidan o'g'irlanadi. Gon, Killua va Leorio uning ko'zlarini qaytarish va tirilgan arvoh qo'g'irchoqlarni to'xtatish uchun yordamga shoshiladilar.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-howls-moving-castle",
@@ -3637,7 +3637,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Howl’s Moving Castle (Xaullning Uchar Qasri) (To'liq Qism)",
         "duration": "1h 59m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3645,7 +3645,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Howl’s Moving Castle (Xaullning Uchar Qasri) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3659,7 +3659,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Yovuz jodugar tomonidan 90 yoshli kampirga aylantirib qo'yilgan yosh Sofi sehrgar Xaulning g'aroyib uchar qasridan panoh topadi va olov iblisi Kalsifer bilan do'stlashadi.",
     "officialPlatform": "Animem.uz / Netflix",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-suzume",
@@ -3682,7 +3682,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Suzume (Suzume Eshiklarni Yopuvchi) (To'liq Qism)",
         "duration": "2h 02m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3690,7 +3690,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Suzume (Suzume Eshiklarni Yopuvchi) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3704,7 +3704,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "17 yoshli Suzume butun Yaponiya bo'ylab tabiiy ofatlarni chaqiruvchi tashlab ketilgan eshiklarni yopish uchun yosh sayohatchi Sota bilan xavfli va sehrli safarga otlanadi.",
     "officialPlatform": "Animem.uz / Crunchyroll / Netflix",
     "status": "Trending",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-boy-heron",
@@ -3727,7 +3727,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: The Boy and the Heron (Bola va Qarqara) (To'liq Qism)",
         "duration": "2h 04m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3735,7 +3735,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: The Boy and the Heron (Bola va Qarqara) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3749,7 +3749,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Mahato ismli yigit onasining o'limidan so'ng sirli gapiradigan kulrang qarqara ortidan hayot va o'lim chegarasidagi sehrli dunyoga qadam qo'yadi. 2024-yilgi Oskar mukofoti g'olibi.",
     "officialPlatform": "Animem.uz / Netflix / Apple TV",
     "status": "Trending",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-no-game-no-life-zero",
@@ -3772,7 +3772,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: No Game No Life: Zero (O‘yinsiz Hayot Yo‘q: Nol) (To'liq Qism)",
         "duration": "1h 46m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3780,7 +3780,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: No Game No Life: Zero (O‘yinsiz Hayot Yo‘q: Nol) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3794,7 +3794,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Disboard dunyosi o'yinlar bilan boshqarilishidan 6000 yil oldin, urushlar odamlarni yo'q qilayotgan davrda yosh Riku va robot qiz Shuvi insoniyat kelajagi uchun xudolar urushini to'xtatishga qaror qilishadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-your-name",
@@ -3817,7 +3817,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Your Name (Sening Isming) (To'liq Qism)",
         "duration": "1h 46m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3825,7 +3825,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Your Name (Sening Isming) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3839,7 +3839,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Tokiodagi Taki va tog'li qishloqdagi Mitsuha tushlarida bir-birlarining tanalariga o'tib qolishadi. Ular orasidagi sirli vaqt va sevgi rishtasi yulduzlar tushgan tunda sinovga duch keladi.",
     "officialPlatform": "Animem.uz / Crunchyroll / Apple TV",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-silent-voice",
@@ -3862,7 +3862,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: A Silent Voice (Ovoz Shakli) (To'liq Qism)",
         "duration": "2h 10m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3870,7 +3870,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: A Silent Voice (Ovoz Shakli) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3884,7 +3884,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Bolaligida eshitish qobiliyati zaif Shoko Nishimiyani masxara qilgan Shoya Ishida yillar o'tib o'z xatolarini anglaydi va uning kechirimiga erishish hamda mehr berish uchun kurashadi.",
     "officialPlatform": "Animem.uz / Netflix / Apple TV",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-weathering-with-you",
@@ -3907,7 +3907,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Weathering with You (Sen Bilan Birga Yomg‘irda) (To'liq Qism)",
         "duration": "1h 52m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3915,7 +3915,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Weathering with You (Sen Bilan Birga Yomg‘irda) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3929,7 +3929,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Uydan qochib Tokioga kelgan Hodaka ob-havoni o'zgartirish va quyoshni chaqirish mo'jizaviy qobiliyatiga ega Hina ismli qiz bilan tanishib, qalb tuyg'ularini kashf etadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-pancreas",
@@ -3952,7 +3952,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: I Want to Eat Your Pancreas (Oshqozon osti bezingni yemoqchiman) (To'liq Qism)",
         "duration": "1h 48m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -3960,7 +3960,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: I Want to Eat Your Pancreas (Oshqozon osti bezingni yemoqchiman) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -3974,7 +3974,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Hech kim bilan gaplashmaydigan yigit tasodifan sinfning eng quvnoq qizi Sakura Yamauchining og'ir bedavo xastalikka uchraganini bilib oladi va uning qolgan umrini unutilmas yorqin kunlarga to'ldiradi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-death-note-relight",
@@ -3997,7 +3997,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Death Note: Relight — Xudo Ko‘rinishi (Visions of a God) (To'liq Qism)",
         "duration": "2h 10m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4005,7 +4005,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Death Note: Relight — Xudo Ko‘rinishi (Visions of a God) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4019,7 +4019,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Shinigami Ryuk boshqa o'lim xudosiga Light Yagami ning qanday qilib O'lim Daftarchasini qo'lga kiritgani, daho tergovchi L bilan aql bovar qilmas intellektual jangi va Kira saltanatini qurgani haqida hikoya qilib beradi.",
     "officialPlatform": "Animem.uz / Netflix",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-akira",
@@ -4042,7 +4042,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Akira (Neo-Tokyo Halokati) (To'liq Qism)",
         "duration": "2h 04m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4050,7 +4050,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Akira (Neo-Tokyo Halokati) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4064,7 +4064,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Uchinchi jahon urushidan keyingi Neo-Tokioda bayker Kaneda do'sti Tetsuo maxfiy harbiy tajribalar tufayli o'ta kuchli telepatik qudratga ega bo'lib butun shaharga dahshat solayotganini ko'radi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-perfect-blue",
@@ -4087,7 +4087,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Perfect Blue (Mukammal Moviy Rang) (To'liq Qism)",
         "duration": "1h 21m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4095,7 +4095,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Perfect Blue (Mukammal Moviy Rang) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4109,7 +4109,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Idol guruhidan aktrisalikka o'tgan Mima o'zini ta'qib qilayotgan manyak va o'z ongining parchalanishi o'rtasida haqiqat bilan illyuziyani ajrata olmay qoladi. Satoshi Konning shoh psixologik trilleri.",
     "officialPlatform": "Animem.uz / Apple TV",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-tokyo-ghoul-jack",
@@ -4132,7 +4132,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Tokyo Ghoul: Jack & Pinto (Tokio Guli) (To'liq Qism)",
         "duration": "1h 15m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4140,7 +4140,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Tokyo Ghoul: Jack & Pinto (Tokio Guli) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4154,7 +4154,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "CCG ning eng afsonaviy oq sochli tergovchisi Kisho Arima hali maktab o'quvchisi bo'lgan davrda Chiroq laqabli qonxo'r gulni ovlashi va insonlar bilan gullar o'rtasidagi shafqatsiz kurash haqida.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-another-special",
@@ -4177,7 +4177,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Another: Sirli O‘limlar (The Other Chapter) (To'liq Qism)",
         "duration": "50m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4185,7 +4185,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Another: Sirli O‘limlar (The Other Chapter) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4199,7 +4199,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Yomiyama shimoliy o'rta maktabining 3-3 sinfida 26 yil oldin boshlangan dahshatli la'nat har oy bir o'quvchi yoki ularning yaqinlarini sirli o'limga duchor qiladi. Ko'z bog'lagan qiz Misaki Mei bu sirni ochadi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-overlord-holy-kingdom",
@@ -4222,7 +4222,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Overlord: Muqaddas Qirollik (The Sacred Kingdom) (To'liq Qism)",
         "duration": "2h 15m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4230,7 +4230,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Overlord: Muqaddas Qirollik (The Sacred Kingdom) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4244,7 +4244,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Ainz Ooal Gown va Nazarik Qabri kuchlari Jaldabaoth nomli iblis tomonidan qurshovga olingan Muqaddas Qirollikni qutqarish bahonasida yangi hududlarni o'zining mutlaq hukmronligiga bo'ysundiradi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Premyera",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-slime-scarlet-bond",
@@ -4268,7 +4268,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Slime: Alvon Rishta (Scarlet Bond) (To'liq Qism)",
         "duration": "1h 50m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4276,7 +4276,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Slime: Alvon Rishta (Scarlet Bond) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4290,7 +4290,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Rimuru Tempest va uning do'sti Benimaru omon qolgan og'asi Hiiro hamda Raja qirolligi malikasi bilan uchrashadi. Qadimgi la'nat va yangi xavfga qarshi butun Tempest armiyasi harakatga keladi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-sao-ordinal-scale",
@@ -4314,7 +4314,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Sword Art Online: Ordinal Scale (To'liq Qism)",
         "duration": "1h 59m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4322,7 +4322,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Sword Art Online: Ordinal Scale — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4336,7 +4336,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Augma nomli yangi kengaytirilgan borliq (AR) qurilmasi orqali Aincrad bosslari real Tokio ko'chalarida paydo bo'ladi. Kirito va Asuna o'tmish xotiralarini saqlab qolish uchun yangi reyting tizimida birinchi o'ringa ko'tarilishi lozim.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Trending",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-blue-lock-nagi",
@@ -4359,7 +4359,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Blue Lock: Episode Nagi (Moviy Qulf: Nagi) (To'liq Qism)",
         "duration": "1h 31m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4367,7 +4367,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Blue Lock: Episode Nagi (Moviy Qulf: Nagi) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4381,7 +4381,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Dangasa, ammo tug'ma futbol dahosi Nagi Seishiro va uning do'sti Reo Mikage Yaponiyaning yagona mutlaq hujumchisini kashf qiluvchi Blue Lock qamoqxona-akademiyasiga taklif qilinadilar.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Premyera",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-haikyuu-dumpster-battle",
@@ -4404,7 +4404,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Haikyuu!! Chiqindixona Jangi (The Dumpster Battle) (To'liq Qism)",
         "duration": "1h 25m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4412,7 +4412,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Haikyuu!! Chiqindixona Jangi (The Dumpster Battle) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4426,7 +4426,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Karasuno va Nekoma o'rtasidagi ko'p yillik orzu qilingan Chiqindixona jangi rasmiy Milliy chempionatda boshlanadi. Hinata Shoyo va Kenma Kozume o'rtasidagi takrorlanmas voleybol shousi!",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   },
   {
     "id": "m-kuroko-last-game",
@@ -4449,7 +4449,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Kuroko no Basket: Last Game (So‘nggi O‘yin) (To'liq Qism)",
         "duration": "1h 30m",
-        "videoUrl": "/videos/anime-clips/clip_3.mp4",
+        "videoUrl": "./videos/anime-clips/clip_3.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4457,7 +4457,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Kuroko no Basket: Last Game (So‘nggi O‘yin) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_4.mp4",
+        "videoUrl": "./videos/anime-clips/clip_4.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4471,7 +4471,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Yaponiyaga kelgan takabbur amerikalik ko'cha basketbolchilari Jabberwock jamoasi Yaponiyani masxara qilgach, Mo'jizalar Avlodi (Kise, Midorima, Aomine, Murasakibara, Akashi) Kuroko va Kagami bilan birlashib Vorpal Swords jamoasini tuzadi!",
     "officialPlatform": "Animem.uz / Netflix",
     "status": "Popular",
-    "videoUrl": "/videos/anime-clips/clip_3.mp4"
+    "videoUrl": "./videos/anime-clips/clip_3.mp4"
   },
   {
     "id": "m-classroom-elite",
@@ -4494,7 +4494,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Classroom of the Elite: Yashirin Rejalar (To'liq Qism)",
         "duration": "1h 20m",
-        "videoUrl": "/videos/anime-clips/clip_5.mp4",
+        "videoUrl": "./videos/anime-clips/clip_5.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4502,7 +4502,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Classroom of the Elite: Yashirin Rejalar — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_6.mp4",
+        "videoUrl": "./videos/anime-clips/clip_6.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4516,7 +4516,7 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Tokio ilg'or ta'lim maktabida barcha o'quvchilar martabalar bilan baholanadi. D-sinf o'quvchisi Kiyotaka Ayanokoji o'zining daho qobiliyatlarini yashirgan holda sinfni yuqoriga olib chiqish uchun sahna ortida barcha manipulyatsiyalarni boshqaradi.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Trending",
-    "videoUrl": "/videos/anime-clips/clip_5.mp4"
+    "videoUrl": "./videos/anime-clips/clip_5.mp4"
   },
   {
     "id": "m-assassination-classroom",
@@ -4540,7 +4540,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 1,
         "title": "1-qism: Assassination Classroom: 365 Kun (365 Days’ Time) (To'liq Qism)",
         "duration": "1h 32m",
-        "videoUrl": "/videos/anime-clips/clip_1.mp4",
+        "videoUrl": "./videos/anime-clips/clip_1.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       },
@@ -4548,7 +4548,7 @@ export const ANIME_MOVIES_DATA = [
         "episodeNumber": 2,
         "title": "2-qism: Assassination Classroom: 365 Kun (365 Days’ Time) — Maxsus Epilog va Sahna orti",
         "duration": "22:15",
-        "videoUrl": "/videos/anime-clips/clip_2.mp4",
+        "videoUrl": "./videos/anime-clips/clip_2.mp4",
         "quality": "1080p HD (To'liq Ovozli)",
         "isPlayable": true
       }
@@ -4562,6 +4562,6 @@ export const ANIME_MOVIES_DATA = [
     "overview": "Oyni parchalab tashlagan va bir yildan so'ng yerni yo'q qilmoqchi bo'lgan sariq tentak maxluq Koro-sensei 3-E sinfga ustozlik qiladi. Nagisa va Karma u bilan o'tgan bir yillik ta'lim va chuqur mehr xotiralarini yodga oladilar.",
     "officialPlatform": "Animem.uz / Crunchyroll",
     "status": "Top Reyting",
-    "videoUrl": "/videos/anime-clips/clip_1.mp4"
+    "videoUrl": "./videos/anime-clips/clip_1.mp4"
   }
 ];

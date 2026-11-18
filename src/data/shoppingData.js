@@ -25,7 +25,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 5,
     "reviewsCount": 92,
-    "image": "/images/products/gojo-anime-watch.jpg",
+    "image": "./images/products/gojo-anime-watch.jpg",
     "additionalImages": [
       "https://i.ibb.co/YYMtRnf/1a7bc2fbaee0.jpg",
       "https://i.ibb.co/VWDnc8fM/d0fbb5add3ae.jpg",
@@ -53,7 +53,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 70,
     "rating": 5,
     "reviewsCount": 110,
-    "image": "/images/products/jjk-playing-cards.jpg",
+    "image": "./images/products/jjk-playing-cards.jpg",
     "additionalImages": [
       "https://i.ibb.co/4Z45ZgD7/6dedb4462428.jpg"
     ],
@@ -72,7 +72,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 5,
     "reviewsCount": 223,
-    "image": "/images/products/aot-anime-frame.jpg",
+    "image": "./images/products/aot-anime-frame.jpg",
     "additionalImages": [
       "https://i.ibb.co/5XWn1Bfq/5ceb662c6e9c.jpg",
       "https://i.ibb.co/TDjw12v0/a4d8191d72e7.jpg",
@@ -100,7 +100,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 4.7,
     "reviewsCount": 191,
-    "image": "/images/products/ash_1____jujutsu_kaisen_cosplay.jpg",
+    "image": "./images/products/ash_1____jujutsu_kaisen_cosplay.jpg",
     "additionalImages": [
       "https://i.ibb.co/21ccKLhB/5c8b4d7017aa.png",
       "https://i.ibb.co/B5LmPJ54/bc20a8ced45b.jpg",
@@ -121,7 +121,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 33,
     "rating": 4.8,
     "reviewsCount": 144,
-    "image": "/images/products/ash_2_anime_soat.jpg",
+    "image": "./images/products/ash_2_anime_soat.jpg",
     "additionalImages": [
       "https://i.ibb.co/WhD87nM/6e55f06b9347.jpg"
     ],
@@ -140,7 +140,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 20,
     "rating": 4.9,
     "reviewsCount": 178,
-    "image": "/images/products/ash_3______demon_slayer_shockpr.jpg",
+    "image": "./images/products/ash_3______demon_slayer_shockpr.jpg",
     "additionalImages": [
       "https://i.ibb.co/r26HvfSZ/61038d069efe.jpg",
       "https://i.ibb.co/YTBT57FT/80e9a7654a9c.jpg",
@@ -164,7 +164,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 20,
     "rating": 4.9,
     "reviewsCount": 104,
-    "image": "/images/products/ash_4____premium_model_krasofka.jpg",
+    "image": "./images/products/ash_4____premium_model_krasofka.jpg",
     "additionalImages": [
       "https://i.ibb.co/fTjYkn1/fe9d328d44fa.jpg",
       "https://i.ibb.co/mxTGnn1/5cfbe807ef2f.jpg"
@@ -184,7 +184,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 4.6,
     "reviewsCount": 87,
-    "image": "/images/products/ash_5_______one_piece_anime_yos.jpg",
+    "image": "./images/products/ash_5_______one_piece_anime_yos.jpg",
     "additionalImages": [
       "https://i.ibb.co/3mcCzQ85/4552dc90fc37.jpg",
       "https://i.ibb.co/S7vQ0hmj/e6dbdeb2ab6b.jpg"
@@ -204,7 +204,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 30,
     "rating": 4.8,
     "reviewsCount": 243,
-    "image": "/images/products/ash_6______demon_slayer_kids_ta.jpg",
+    "image": "./images/products/ash_6______demon_slayer_kids_ta.jpg",
     "additionalImages": [
       "https://i.ibb.co/VpvdLxnK/e9a9f564bda6.jpg",
       "https://i.ibb.co/4ZQz94hh/4c35476984e0.jpg",
@@ -232,7 +232,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 5,
     "reviewsCount": 218,
-    "image": "/images/products/ash_7___premium__jujutsu_kaisen.jpg",
+    "image": "./images/products/ash_7___premium__jujutsu_kaisen.jpg",
     "additionalImages": [
       "https://i.ibb.co/7JYBbgVy/44a2cd5aa510.jpg",
       "https://i.ibb.co/n8wYmNYQ/ac14f9ca30f8.jpg"
@@ -252,7 +252,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 37,
     "rating": 5,
     "reviewsCount": 98,
-    "image": "/images/products/ash_8____one_piece_cotton_baseb.jpg",
+    "image": "./images/products/ash_8____one_piece_cotton_baseb.jpg",
     "additionalImages": [
       "https://i.ibb.co/SW0xF1m/804a74dcb79d.jpg",
       "https://i.ibb.co/bgjQGzz1/e75e5e8f8804.jpg",
@@ -275,7 +275,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 4.8,
     "reviewsCount": 152,
-    "image": "/images/products/ash_9_______premium_one_piece_a.jpg",
+    "image": "./images/products/ash_9_______premium_one_piece_a.jpg",
     "additionalImages": [
       "https://i.ibb.co/N2170N3F/92d1e0fcb21a.jpg",
       "https://i.ibb.co/9kTG11hS/38949d6c7cf8.jpg",
@@ -296,7 +296,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 4.9,
     "reviewsCount": 151,
-    "image": "/images/products/ash_10_premium_one_piece_so_mka_.jpg",
+    "image": "./images/products/ash_10_premium_one_piece_so_mka_.jpg",
     "additionalImages": [
       "https://i.ibb.co/9kPT39rF/8c573ffbad6a.jpg",
       "https://i.ibb.co/rGwBTBXR/9e7266fd58c6.jpg",
@@ -319,7 +319,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.4,
     "reviewsCount": 110,
-    "image": "/images/products/ash_11_gojo_anime_airpods_pro_2.jpg",
+    "image": "./images/products/ash_11_gojo_anime_airpods_pro_2.jpg",
     "additionalImages": [
       "https://i.ibb.co/zhxFg6DY/86b3da7f2ac4.jpg",
       "https://i.ibb.co/8JF3trk/22fe99e1d31c.jpg",
@@ -342,7 +342,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 35,
     "rating": 4.9,
     "reviewsCount": 124,
-    "image": "/images/products/ash_12_premium_anime_termos.jpg",
+    "image": "./images/products/ash_12_premium_anime_termos.jpg",
     "additionalImages": [
       "https://i.ibb.co/1JPy4bZy/adc8db8ebcf6.jpg",
       "https://i.ibb.co/XfqNcvSt/98a3e7a7eb82.jpg",
@@ -370,7 +370,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 5,
     "reviewsCount": 57,
-    "image": "/images/products/ash_13____rikka_summer_otaku_sty.jpg",
+    "image": "./images/products/ash_13____rikka_summer_otaku_sty.jpg",
     "additionalImages": [
       "https://i.ibb.co/vSfrYfX/f9f242989520.jpg",
       "https://i.ibb.co/KCSwpNW/6e2bf0d5d256.jpg"
@@ -390,7 +390,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 65,
     "rating": 4.7,
     "reviewsCount": 80,
-    "image": "/images/products/ash_14____rikka_anime_watch___wa.jpg",
+    "image": "./images/products/ash_14____rikka_anime_watch___wa.jpg",
     "additionalImages": [
       "https://i.ibb.co/ZRXXzhcM/151e7fb236a7.jpg",
       "https://i.ibb.co/NgDTYTJ8/dccc5df7f5bc.jpg",
@@ -418,7 +418,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 5,
     "reviewsCount": 127,
-    "image": "/images/products/ash_15____naruto_anime_yostiq___.jpg",
+    "image": "./images/products/ash_15____naruto_anime_yostiq___.jpg",
     "additionalImages": [
       "https://i.ibb.co/7xwnhZH8/13740738ef71.jpg",
       "https://i.ibb.co/ZR1xstWW/7842897a9ab6.jpg",
@@ -446,7 +446,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 4.8,
     "reviewsCount": 170,
-    "image": "/images/products/ash_16____premium_attack_on_tita.jpg",
+    "image": "./images/products/ash_16____premium_attack_on_tita.jpg",
     "additionalImages": [
       "https://i.ibb.co/k2h2GLRt/40709535ae08.jpg",
       "https://i.ibb.co/5gGWF8Pn/8b7f9eca6db3.jpg",
@@ -473,7 +473,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 5,
     "reviewsCount": 99,
-    "image": "/images/products/ash_17_______one_piece_premium_a.jpg",
+    "image": "./images/products/ash_17_______one_piece_premium_a.jpg",
     "additionalImages": [
       "https://i.ibb.co/fzMrCgT7/6e20ad0efeee.jpg",
       "https://i.ibb.co/TDpVPRPH/67ba039aece3.jpg"
@@ -493,7 +493,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 55,
     "rating": 5,
     "reviewsCount": 231,
-    "image": "/images/products/ash_18____one_piece_nika_luffy_l.jpg",
+    "image": "./images/products/ash_18____one_piece_nika_luffy_l.jpg",
     "additionalImages": [
       "https://i.ibb.co/hxrqH2qJ/1595fbe3a4cd.jpg",
       "https://i.ibb.co/Fb7yyhS9/7f23d126acaa.jpg",
@@ -521,7 +521,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 30,
     "rating": 5,
     "reviewsCount": 219,
-    "image": "/images/products/ash_19___etie_sharingan_sasuke_u.jpg",
+    "image": "./images/products/ash_19___etie_sharingan_sasuke_u.jpg",
     "additionalImages": [
       "https://i.ibb.co/99J6PYpm/f0521981e0e1.jpg",
       "https://i.ibb.co/20njzrjd/abcc0596087f.jpg",
@@ -542,7 +542,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 5,
     "reviewsCount": 63,
-    "image": "/images/products/ash_20______one_piece_magnet_dec.jpg",
+    "image": "./images/products/ash_20______one_piece_magnet_dec.jpg",
     "additionalImages": [
       "https://i.ibb.co/rGRnsxC2/d8b9616bcd4d.jpg",
       "https://i.ibb.co/Fq0Cc7xG/69d12b921195.jpg"
@@ -562,7 +562,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 65,
     "rating": 4.7,
     "reviewsCount": 93,
-    "image": "/images/products/ash_21____jujutsu_kaisen_canvas_.jpg",
+    "image": "./images/products/ash_21____jujutsu_kaisen_canvas_.jpg",
     "additionalImages": [
       "https://i.ibb.co/7xyx5Z8Q/098ee414d376.jpg",
       "https://i.ibb.co/5xhYdYZT/e7b93f607b59.jpg",
@@ -588,7 +588,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.9,
     "reviewsCount": 162,
-    "image": "/images/products/ash_22____aksiya_1_1_naruto_kaka.jpg",
+    "image": "./images/products/ash_22____aksiya_1_1_naruto_kaka.jpg",
     "additionalImages": [
       "https://i.ibb.co/9H7rkBbp/3c9b5f5a79ad.jpg"
     ],
@@ -607,7 +607,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 55,
     "rating": 4.4,
     "reviewsCount": 57,
-    "image": "/images/products/ash_23____premium_tablet___lapto.jpg",
+    "image": "./images/products/ash_23____premium_tablet___lapto.jpg",
     "additionalImages": [
       "https://i.ibb.co/KpJX5hrt/763b062d34c7.jpg",
       "https://i.ibb.co/3YM11Kqn/74e329543d5f.jpg",
@@ -631,7 +631,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.8,
     "reviewsCount": 78,
-    "image": "/images/products/ash_24____anime___superhero_note.jpg",
+    "image": "./images/products/ash_24____anime___superhero_note.jpg",
     "additionalImages": [
       "https://i.ibb.co/jZkFLhcH/b982fc25e59c.jpg",
       "https://i.ibb.co/wrMnZCHb/2b6d01705e46.jpg"
@@ -651,7 +651,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 30,
     "rating": 4.8,
     "reviewsCount": 198,
-    "image": "/images/products/ash_25_______premium_one_piece_p.jpg",
+    "image": "./images/products/ash_25_______premium_one_piece_p.jpg",
     "additionalImages": [
       "https://i.ibb.co/qY4qPkjw/e5c608009b89.jpg"
     ],
@@ -670,7 +670,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 37,
     "rating": 4.4,
     "reviewsCount": 233,
-    "image": "/images/products/ash_26____jujutsu_kaisen_a5_prem.jpg",
+    "image": "./images/products/ash_26____jujutsu_kaisen_a5_prem.jpg",
     "additionalImages": [
       "https://i.ibb.co/qF9Z8f8N/e5245248d8dd.jpg"
     ],
@@ -689,7 +689,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.9,
     "reviewsCount": 86,
-    "image": "/images/products/ash_27_____marin_kitagawa_summer.jpg",
+    "image": "./images/products/ash_27_____marin_kitagawa_summer.jpg",
     "additionalImages": [
       "https://i.ibb.co/F405dbhZ/7f68aed06bd6.jpg",
       "https://i.ibb.co/j9rb6fkN/9cc87988e1f1.jpg",
@@ -715,7 +715,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 4.8,
     "reviewsCount": 103,
-    "image": "/images/products/ash_28____toji_street_hoodie___d.jpg",
+    "image": "./images/products/ash_28____toji_street_hoodie___d.jpg",
     "additionalImages": [
       "https://i.ibb.co/rRKjR8P8/4f3f8661a89f.jpg",
       "https://i.ibb.co/FkP9hdMQ/0fe260b06aa7.jpg",
@@ -741,7 +741,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.7,
     "reviewsCount": 108,
-    "image": "/images/products/ash_29____samsung_galaxy_a02_pho.jpg",
+    "image": "./images/products/ash_29____samsung_galaxy_a02_pho.jpg",
     "additionalImages": [
       "https://i.ibb.co/nHghjkd/be453ba95aab.jpg",
       "https://i.ibb.co/XrMSLWhX/e8c2a12caa57.jpg",
@@ -769,7 +769,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.8,
     "reviewsCount": 143,
-    "image": "/images/products/ash_30______tanjiro_diy_bracel.jpg",
+    "image": "./images/products/ash_30______tanjiro_diy_bracel.jpg",
     "additionalImages": [
       "https://i.ibb.co/dw8tszCN/1e65eb323a13.jpg",
       "https://i.ibb.co/pCDWpDs/983a910971c8.jpg",
@@ -790,7 +790,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 39,
     "rating": 4.9,
     "reviewsCount": 126,
-    "image": "/images/products/ash_31_itachi_uchiha_2026_trend_.jpg",
+    "image": "./images/products/ash_31_itachi_uchiha_2026_trend_.jpg",
     "additionalImages": [
       "https://i.ibb.co/JFyHFr8K/6d3e2f91516a.png"
     ],
@@ -809,7 +809,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 55,
     "rating": 4.9,
     "reviewsCount": 99,
-    "image": "/images/products/ash_32_______one_piece_gold_foil.jpg",
+    "image": "./images/products/ash_32_______one_piece_gold_foil.jpg",
     "additionalImages": [
       "https://i.ibb.co/xSxRvyH9/c2202cf08751.jpg",
       "https://i.ibb.co/SwZVQhmj/2c9055da475d.jpg"
@@ -829,7 +829,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 4.6,
     "reviewsCount": 213,
-    "image": "/images/products/ash_33_______one_piece_alloy_pun.jpg",
+    "image": "./images/products/ash_33_______one_piece_alloy_pun.jpg",
     "additionalImages": [
       "https://i.ibb.co/vRyLCSt/d11d00440228.jpg"
     ],
@@ -848,7 +848,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 4.9,
     "reviewsCount": 78,
-    "image": "/images/products/ash_34______demon_slayer_canvas_.jpg",
+    "image": "./images/products/ash_34______demon_slayer_canvas_.jpg",
     "additionalImages": [
       "https://i.ibb.co/S7rst4jK/e7d167fff0f6.jpg",
       "https://i.ibb.co/wxXqDQf/694001f4497c.jpg",
@@ -876,7 +876,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 5,
     "reviewsCount": 186,
-    "image": "/images/products/ash_35______demon_slayer_wall_cl.jpg",
+    "image": "./images/products/ash_35______demon_slayer_wall_cl.jpg",
     "additionalImages": [
       "https://i.ibb.co/sJRG0RwC/22ee8d9f09ad.jpg",
       "https://i.ibb.co/dTJCHYG/3a7f4b70e984.jpg",
@@ -904,7 +904,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 5,
     "reviewsCount": 232,
-    "image": "/images/products/ash_36_one_piece_premium_anime_g.jpg",
+    "image": "./images/products/ash_36_one_piece_premium_anime_g.jpg",
     "additionalImages": [
       "https://i.ibb.co/GfL2vhGP/1fb3b75c50d3.png",
       "https://i.ibb.co/VWR59khJ/1d3582e1d406.jpg",
@@ -930,7 +930,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 55,
     "rating": 4.6,
     "reviewsCount": 127,
-    "image": "/images/products/ash_37____anime_street_graffiti_.jpg",
+    "image": "./images/products/ash_37____anime_street_graffiti_.jpg",
     "additionalImages": [
       "https://i.ibb.co/r2L56GLv/1638b6a33139.jpg",
       "https://i.ibb.co/N6PCJDT6/4ba801b0b31b.jpg",
@@ -951,7 +951,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.8,
     "reviewsCount": 126,
-    "image": "/images/products/ash_38_____premium_demon_slayer_.jpg",
+    "image": "./images/products/ash_38_____premium_demon_slayer_.jpg",
     "additionalImages": [
       "https://i.ibb.co/4nCDdsX4/4a46a4fe60d6.jpg",
       "https://i.ibb.co/hRHHssrm/b932ccd5951f.jpg",
@@ -973,7 +973,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 65,
     "rating": 5,
     "reviewsCount": 131,
-    "image": "/images/products/ash_39____rikka_winter_set___58m.jpg",
+    "image": "./images/products/ash_39____rikka_winter_set___58m.jpg",
     "additionalImages": [
       "https://i.ibb.co/nsYYXr45/87c6bd510e41.jpg",
       "https://i.ibb.co/SX1CgP37/a8b8575f0cde.jpg",
@@ -1000,7 +1000,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 25,
     "rating": 4.9,
     "reviewsCount": 231,
-    "image": "/images/products/ash_40____miku_cute_box___anime_.jpg",
+    "image": "./images/products/ash_40____miku_cute_box___anime_.jpg",
     "additionalImages": [
       "https://i.ibb.co/hxhrpz2S/60dca210145c.jpg",
       "https://i.ibb.co/k2CSb0km/c096d660f9f8.jpg",
@@ -1022,7 +1022,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 4.9,
     "reviewsCount": 219,
-    "image": "/images/products/ash_41____premium___limited_edit.jpg",
+    "image": "./images/products/ash_41____premium___limited_edit.jpg",
     "additionalImages": [
       "https://i.ibb.co/21JVYksQ/2144bb8ee0eb.jpg"
     ],
@@ -1041,7 +1041,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.9,
     "reviewsCount": 87,
-    "image": "/images/products/ash_42____gojo_impact___premium_.jpg",
+    "image": "./images/products/ash_42____gojo_impact___premium_.jpg",
     "additionalImages": [
       "https://i.ibb.co/V078hJ7j/e1f803a5e170.jpg",
       "https://i.ibb.co/zTj9sQct/43f62b109e21.jpg",
@@ -1064,7 +1064,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 70,
     "rating": 4.3,
     "reviewsCount": 213,
-    "image": "/images/products/ash_43_______jujutsu_team__anime.jpg",
+    "image": "./images/products/ash_43_______jujutsu_team__anime.jpg",
     "additionalImages": [
       "https://i.ibb.co/kgWM233M/0b5a463458be.png",
       "https://i.ibb.co/v6hjgJDz/5ee790a91c2f.png",
@@ -1087,7 +1087,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 75,
     "rating": 4.7,
     "reviewsCount": 187,
-    "image": "/images/products/ash_44____one_piece_zoro_sword_b.jpg",
+    "image": "./images/products/ash_44____one_piece_zoro_sword_b.jpg",
     "additionalImages": [
       "https://i.ibb.co/7dTbk8QX/6dfbad12bdbc.jpg",
       "https://i.ibb.co/Z16QjQXP/1c0770f8326b.jpg",
@@ -1110,7 +1110,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 75,
     "rating": 4.9,
     "reviewsCount": 64,
-    "image": "/images/products/ash_45______gojo_crystal_frame__.jpg",
+    "image": "./images/products/ash_45______gojo_crystal_frame__.jpg",
     "additionalImages": [
       "https://i.ibb.co/prQQC961/824273638f46.png",
       "https://i.ibb.co/tPpQNf5F/ffda15d11397.png",
@@ -1138,7 +1138,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 25,
     "rating": 5,
     "reviewsCount": 83,
-    "image": "/images/products/ash_46___premium_chainsaw_man_ov.jpg",
+    "image": "./images/products/ash_46___premium_chainsaw_man_ov.jpg",
     "additionalImages": [
       "https://i.ibb.co/qYs4SNxG/c622415d6c6e.jpg",
       "https://i.ibb.co/zWnP3X91/f564f7cc7b16.jpg",
@@ -1162,7 +1162,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 30,
     "rating": 4.2,
     "reviewsCount": 82,
-    "image": "/images/products/ash_47_gojo_anime_premium_penal.jpg",
+    "image": "./images/products/ash_47_gojo_anime_premium_penal.jpg",
     "additionalImages": [
       "https://i.ibb.co/nMfyWYL9/824a779b34c2.jpg",
       "https://i.ibb.co/hT6HR07/9e7856364caa.jpg",
@@ -1190,7 +1190,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 35,
     "rating": 5,
     "reviewsCount": 204,
-    "image": "/images/products/ash_48____chainsaw_man_316_steel.jpg",
+    "image": "./images/products/ash_48____chainsaw_man_316_steel.jpg",
     "additionalImages": [
       "https://i.ibb.co/5hqqkQWL/f17920940b87.jpg",
       "https://i.ibb.co/fjYSmZP/4617ed70b171.jpg"
@@ -1210,7 +1210,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 4.9,
     "reviewsCount": 115,
-    "image": "/images/products/ash_49______premium_new_style_ro.jpg",
+    "image": "./images/products/ash_49______premium_new_style_ro.jpg",
     "additionalImages": [
       "https://i.ibb.co/xt6zkJ7m/9c6236e42930.jpg",
       "https://i.ibb.co/HLkFmskh/94332f14df63.jpg",
@@ -1233,7 +1233,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 70,
     "rating": 4.6,
     "reviewsCount": 45,
-    "image": "/images/products/ash_50_____spy_x_family_holograp.jpg",
+    "image": "./images/products/ash_50_____spy_x_family_holograp.jpg",
     "additionalImages": [
       "https://i.ibb.co/rBFMhBC/6668bec0c6a6.jpg",
       "https://i.ibb.co/9m6nQRQX/a2bb0c5468ef.jpg"
@@ -1253,7 +1253,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 55,
     "rating": 4.9,
     "reviewsCount": 45,
-    "image": "/images/products/ash_51_______one_piece_nika_luff.jpg",
+    "image": "./images/products/ash_51_______one_piece_nika_luff.jpg",
     "additionalImages": [
       "https://i.ibb.co/qFWDrBDb/8a6e19a2504a.jpg",
       "https://i.ibb.co/NdknDKRQ/11b6a1881917.jpg"
@@ -1273,7 +1273,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.2,
     "reviewsCount": 239,
-    "image": "/images/products/ash_52____lux_cartoon_case___inf.jpg",
+    "image": "./images/products/ash_52____lux_cartoon_case___inf.jpg",
     "additionalImages": [
       "https://i.ibb.co/QvHJbsbM/19606dbf8bfd.jpg",
       "https://i.ibb.co/whjmgYBm/fa906225cb7a.jpg",
@@ -1300,7 +1300,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.6,
     "reviewsCount": 56,
-    "image": "/images/products/ash_53____naruto_anime_bilaguzuk.jpg",
+    "image": "./images/products/ash_53____naruto_anime_bilaguzuk.jpg",
     "additionalImages": [
       "https://i.ibb.co/3mwxf4JC/c099d4e17520.jpg",
       "https://i.ibb.co/Wvr4jhs7/8ee0057d6b80.jpg",
@@ -1322,7 +1322,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.6,
     "reviewsCount": 188,
-    "image": "/images/products/ash_54____attack_on_titan_crysta.jpg",
+    "image": "./images/products/ash_54____attack_on_titan_crysta.jpg",
     "additionalImages": [
       "https://i.ibb.co/239GLFzR/bc84bac44ce4.jpg",
       "https://i.ibb.co/bgBZ3dZQ/4c987d1bd70c.jpg",
@@ -1349,7 +1349,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 52,
     "rating": 4.7,
     "reviewsCount": 111,
-    "image": "/images/products/ash_55_attact_on_titan_futbolka.jpg",
+    "image": "./images/products/ash_55_attact_on_titan_futbolka.jpg",
     "additionalImages": [
       "https://i.ibb.co/PzbCZMQf/af1f92d7fe97.jpg",
       "https://i.ibb.co/VYmV7KFv/a3e7f5a93006.jpg",
@@ -1370,7 +1370,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.9,
     "reviewsCount": 213,
-    "image": "/images/products/ash_56______chainsaw_man_iphone_.jpg",
+    "image": "./images/products/ash_56______chainsaw_man_iphone_.jpg",
     "additionalImages": [
       "https://i.ibb.co/D084Tv7/f4c3261df824.jpg",
       "https://i.ibb.co/LzxngWpx/1235afb498a6.jpg",
@@ -1395,7 +1395,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 5,
     "reviewsCount": 109,
-    "image": "/images/products/ash_57___zenitsu_black_orange_st.jpg",
+    "image": "./images/products/ash_57___zenitsu_black_orange_st.jpg",
     "additionalImages": [
       "https://i.ibb.co/xKTT5MY7/101ad248ec92.jpg",
       "https://i.ibb.co/N2HC8bTD/7ef2b907e65c.jpg",
@@ -1422,7 +1422,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 5,
     "reviewsCount": 132,
-    "image": "/images/products/ash_58____sukuna_power_case___re.jpg",
+    "image": "./images/products/ash_58____sukuna_power_case___re.jpg",
     "additionalImages": [
       "https://i.ibb.co/Txp2nmkQ/04799d2177a4.jpg",
       "https://i.ibb.co/d0h1zB97/da0ae1ba2477.jpg",
@@ -1443,7 +1443,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 35,
     "rating": 4.9,
     "reviewsCount": 61,
-    "image": "/images/products/ash_59____demon_slayer_anime_nig.jpg",
+    "image": "./images/products/ash_59____demon_slayer_anime_nig.jpg",
     "additionalImages": [
       "https://i.ibb.co/Kz7c7PCs/d9129d06841d.jpg",
       "https://i.ibb.co/7dCQB7GT/8f0da092fe7d.jpg",
@@ -1467,7 +1467,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 30,
     "rating": 4.8,
     "reviewsCount": 135,
-    "image": "/images/products/ash_60___record_of_ragnarok_anim.jpg",
+    "image": "./images/products/ash_60___record_of_ragnarok_anim.jpg",
     "additionalImages": [
       "https://i.ibb.co/4Z3bQf0k/2238ead3a35f.jpg",
       "https://i.ibb.co/5X8hprHh/771bf483b6b8.jpg",
@@ -1489,7 +1489,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 35,
     "rating": 4.8,
     "reviewsCount": 177,
-    "image": "/images/products/ash_61____demon_slayer_pop_anime.jpg",
+    "image": "./images/products/ash_61____demon_slayer_pop_anime.jpg",
     "additionalImages": [
       "https://i.ibb.co/Qjhpnh5J/9da65ae95be4.jpg",
       "https://i.ibb.co/CpjnPFL3/5b7218a56c6b.jpg",
@@ -1512,7 +1512,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 30,
     "rating": 5,
     "reviewsCount": 159,
-    "image": "/images/products/ash_62____naruto_premium_q_style.jpg",
+    "image": "./images/products/ash_62____naruto_premium_q_style.jpg",
     "additionalImages": [
       "https://i.ibb.co/vCPHPw0T/45f43d8e028c.jpg",
       "https://i.ibb.co/NdS9Ymnf/8a15754c9c86.jpg",
@@ -1552,7 +1552,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 35,
     "rating": 4.9,
     "reviewsCount": 153,
-    "image": "/images/products/ash_64____naruto_anime_streetwea.jpg",
+    "image": "./images/products/ash_64____naruto_anime_streetwea.jpg",
     "additionalImages": [
       "https://i.ibb.co/xtcpPjvZ/ffe7fab5cf2c.jpg",
       "https://i.ibb.co/gLxNKfmq/2ff67dd79c75.jpg",
@@ -1575,7 +1575,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 4.7,
     "reviewsCount": 186,
-    "image": "/images/products/ash_65______demon_slayer_3_pcs_s.jpg",
+    "image": "./images/products/ash_65______demon_slayer_3_pcs_s.jpg",
     "additionalImages": [
       "https://i.ibb.co/p6zq9Grk/e890ec737c3a.jpg",
       "https://i.ibb.co/DHrWFN34/7862310e3dc9.jpg",
@@ -1603,7 +1603,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.6,
     "reviewsCount": 86,
-    "image": "/images/products/ash_66___jujutsu_kaisen_color_ch.jpg",
+    "image": "./images/products/ash_66___jujutsu_kaisen_color_ch.jpg",
     "additionalImages": [
       "https://i.ibb.co/pjYM5YZw/e8f5c88ecb6f.jpg",
       "https://i.ibb.co/1t2zGZj5/d1a86d7c13a7.jpg",
@@ -1630,7 +1630,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 57,
     "rating": 4.7,
     "reviewsCount": 176,
-    "image": "/images/products/ash_67_attack_on_titan___stol_uc.jpg",
+    "image": "./images/products/ash_67_attack_on_titan___stol_uc.jpg",
     "additionalImages": [
       "https://i.ibb.co/zV1bdRL6/24535dce652d.jpg",
       "https://i.ibb.co/sdpS17DM/bfe3ce1446f1.jpg",
@@ -1655,7 +1655,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.5,
     "reviewsCount": 219,
-    "image": "/images/products/ash_68_______one_piece_7_color_a.jpg",
+    "image": "./images/products/ash_68_______one_piece_7_color_a.jpg",
     "additionalImages": [
       "https://i.ibb.co/ds1kzrjn/f13644884a7f.jpg",
       "https://i.ibb.co/gZ1RLSrt/99bd63be30be.jpg",
@@ -1683,7 +1683,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.8,
     "reviewsCount": 78,
-    "image": "/images/products/ash_69____premium_custom_anime_p.jpg",
+    "image": "./images/products/ash_69____premium_custom_anime_p.jpg",
     "additionalImages": [
       "https://i.ibb.co/1tpFckFm/9f288ce7ff3b.jpg"
     ],
@@ -1702,7 +1702,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 65,
     "rating": 4.9,
     "reviewsCount": 180,
-    "image": "/images/products/ash_70____demon_slayer_birthday_.jpg",
+    "image": "./images/products/ash_70____demon_slayer_birthday_.jpg",
     "additionalImages": [
       "https://i.ibb.co/Lh5mZPHW/cf4c9eac77c7.jpg",
       "https://i.ibb.co/svFQQSwP/9935075070d3.jpg",
@@ -1730,7 +1730,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 25,
     "rating": 4.9,
     "reviewsCount": 101,
-    "image": "/images/products/ash_71____demon_slayer__kimetsu_.jpg",
+    "image": "./images/products/ash_71____demon_slayer__kimetsu_.jpg",
     "additionalImages": [
       "https://i.ibb.co/5x1tvzP9/c71b0ed994da.jpg",
       "https://i.ibb.co/ymPxMpKG/4d66542494db.jpg",
@@ -1758,7 +1758,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.7,
     "reviewsCount": 132,
-    "image": "/images/products/ash_72____honor_8a_jat_al00_soft.jpg",
+    "image": "./images/products/ash_72____honor_8a_jat_al00_soft.jpg",
     "additionalImages": [
       "https://i.ibb.co/PnHT2kj/1a4799dfd466.jpg",
       "https://i.ibb.co/p68swvGk/d25274b27eca.jpg",
@@ -1781,7 +1781,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 4.7,
     "reviewsCount": 120,
-    "image": "/images/products/ash_73____mens___womens_team_sha.jpg",
+    "image": "./images/products/ash_73____mens___womens_team_sha.jpg",
     "additionalImages": [
       "https://i.ibb.co/b5tG9V04/52d80e6edd3a.jpg",
       "https://i.ibb.co/kstXHBHJ/36bef7dd509b.jpg",
@@ -1806,7 +1806,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 25,
     "rating": 4.4,
     "reviewsCount": 48,
-    "image": "/images/products/ash_74___akatsuki_mini_collectio.jpg",
+    "image": "./images/products/ash_74___akatsuki_mini_collectio.jpg",
     "additionalImages": [
       "https://i.ibb.co/FLxB7Qbg/93c7170cb96e.jpg"
     ],
@@ -1825,7 +1825,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 70,
     "rating": 4.9,
     "reviewsCount": 135,
-    "image": "/images/products/ash_75____jujutsu_kaisen_lomo_ka.jpg",
+    "image": "./images/products/ash_75____jujutsu_kaisen_lomo_ka.jpg",
     "additionalImages": [
       "https://i.ibb.co/sp9DXnkk/4d775f161b20.jpg"
     ],
@@ -1844,7 +1844,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 46,
     "rating": 4.9,
     "reviewsCount": 158,
-    "image": "/images/products/ash_76_gojo_chiroqlari___7_xil_y.jpg",
+    "image": "./images/products/ash_76_gojo_chiroqlari___7_xil_y.jpg",
     "additionalImages": [
       "https://i.ibb.co/JWg06Xd7/7384fb37faa3.jpg",
       "https://i.ibb.co/G4qZr5Vt/9a65ca920c2d.jpg",
@@ -1871,7 +1871,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 43,
     "rating": 4.7,
     "reviewsCount": 204,
-    "image": "/images/products/ash_77_attact_on_titan_hudi___fu.jpg",
+    "image": "./images/products/ash_77_attact_on_titan_hudi___fu.jpg",
     "additionalImages": [
       "https://i.ibb.co/gMgFjTbj/5155b3a319ac.jpg",
       "https://i.ibb.co/KzmyCjMm/6591c4048651.jpg",
@@ -1892,7 +1892,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 5,
     "reviewsCount": 117,
-    "image": "/images/products/ash_78____premium___limited_edit.jpg",
+    "image": "./images/products/ash_78____premium___limited_edit.jpg",
     "additionalImages": [
       "https://i.ibb.co/8gkkMCRv/19d145f8f985.jpg",
       "https://i.ibb.co/NngZ8NBZ/fca1f2996e89.jpg",
@@ -1917,7 +1917,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 5,
     "reviewsCount": 237,
-    "image": "/images/products/ash_79_____shoto_wall_art___excl.jpg",
+    "image": "./images/products/ash_79_____shoto_wall_art___excl.jpg",
     "additionalImages": [
       "https://i.ibb.co/23K0GQBW/0f6150fae4b9.jpg",
       "https://i.ibb.co/SX1SGV6n/5e0a9b36afb5.jpg"
@@ -1937,7 +1937,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.8,
     "reviewsCount": 148,
-    "image": "/images/products/ash_80____jujutsu_kaisen_luxury_.jpg",
+    "image": "./images/products/ash_80____jujutsu_kaisen_luxury_.jpg",
     "additionalImages": [
       "https://i.ibb.co/RkXMHZMn/4722d4f42f33.jpg"
     ],
@@ -1956,7 +1956,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 55,
     "rating": 4.7,
     "reviewsCount": 78,
-    "image": "/images/products/ash_81_______one_piece_casual_be.jpg",
+    "image": "./images/products/ash_81_______one_piece_casual_be.jpg",
     "additionalImages": [
       "https://i.ibb.co/Txkv5GRb/51e21bbd71b8.jpg"
     ],
@@ -1975,7 +1975,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 55,
     "rating": 4.9,
     "reviewsCount": 94,
-    "image": "/images/products/ash_82____premium_one_piece_luff.jpg",
+    "image": "./images/products/ash_82____premium_one_piece_luff.jpg",
     "additionalImages": [
       "https://i.ibb.co/RTFmdZfP/95176775147f.jpg",
       "https://i.ibb.co/zVdgWjdw/e9ed3a2b6bd0.jpg",
@@ -2003,7 +2003,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 55,
     "rating": 5,
     "reviewsCount": 106,
-    "image": "/images/products/ash_83____premium_demon_slayer_g.jpg",
+    "image": "./images/products/ash_83____premium_demon_slayer_g.jpg",
     "additionalImages": [
       "https://i.ibb.co/Y46fmr6x/caccc524a287.jpg",
       "https://i.ibb.co/q3ScdkYt/c5f6600cdbaa.jpg",
@@ -2031,7 +2031,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 65,
     "rating": 4.8,
     "reviewsCount": 85,
-    "image": "/images/products/ash_84_______one_piece_vintage_l.jpg",
+    "image": "./images/products/ash_84_______one_piece_vintage_l.jpg",
     "additionalImages": [
       "https://i.ibb.co/hPvMBsY/047eb0466bd1.jpg",
       "https://i.ibb.co/5hnbxfS9/2a8ef0dee45c.jpg",
@@ -2054,7 +2054,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 5,
     "reviewsCount": 211,
-    "image": "/images/products/ash_85________one_piece_yaponcha.jpg",
+    "image": "./images/products/ash_85________one_piece_yaponcha.jpg",
     "additionalImages": [
       "https://i.ibb.co/ZzjZSPCv/cc37569e977b.jpg",
       "https://i.ibb.co/C5Y6vPQY/84705cd60f1b.jpg",
@@ -2079,7 +2079,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 4.7,
     "reviewsCount": 144,
-    "image": "/images/products/ash_87_______one_piece_door_mat_.jpg",
+    "image": "./images/products/ash_87_______one_piece_door_mat_.jpg",
     "additionalImages": [
       "https://i.ibb.co/r2j5vfJr/7f421a151714.jpg",
       "https://i.ibb.co/wNqdpG6w/85f1de5b5eab.jpg",
@@ -2105,7 +2105,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 4.8,
     "reviewsCount": 143,
-    "image": "/images/products/ash_88____custom_anime_haori_t_s.jpg",
+    "image": "./images/products/ash_88____custom_anime_haori_t_s.jpg",
     "additionalImages": [
       "https://i.ibb.co/FkQzSywr/849c422e7f0e.jpg",
       "https://i.ibb.co/rRSNzScX/883090c1ca96.jpg",
@@ -2133,7 +2133,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.7,
     "reviewsCount": 137,
-    "image": "/images/products/ash_89____naruto_anime_uchiha_it.jpg",
+    "image": "./images/products/ash_89____naruto_anime_uchiha_it.jpg",
     "additionalImages": [
       "https://i.ibb.co/DHWNdF9d/ecd539f5c73a.jpg",
       "https://i.ibb.co/Vc5bsM8p/3a74350c212e.jpg",
@@ -2154,7 +2154,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.9,
     "reviewsCount": 52,
-    "image": "/images/products/ash_90____one_piece_12l_pedal_bi.jpg",
+    "image": "./images/products/ash_90____one_piece_12l_pedal_bi.jpg",
     "additionalImages": [
       "https://i.ibb.co/20yVXzcQ/de00bbf4ec4e.jpg",
       "https://i.ibb.co/3m2DGdSp/ee8f2d84185e.jpg",
@@ -2175,7 +2175,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 70,
     "rating": 4.8,
     "reviewsCount": 112,
-    "image": "/images/products/ash_91____premium___limited_edit.jpg",
+    "image": "./images/products/ash_91____premium___limited_edit.jpg",
     "additionalImages": [
       "https://i.ibb.co/KjnLfpQr/d450536e231d.jpg",
       "https://i.ibb.co/WN6fjSNW/c8025951aade.jpg",
@@ -2198,7 +2198,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 46,
     "rating": 4.8,
     "reviewsCount": 192,
-    "image": "/images/products/ash_92_attact_on_titan.jpg",
+    "image": "./images/products/ash_92_attact_on_titan.jpg",
     "additionalImages": [
       "https://i.ibb.co/GfqCzr4q/1320aa4960b4.jpg",
       "https://i.ibb.co/84dkjGRx/1b6dede44bf3.jpg",
@@ -2222,7 +2222,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 60,
     "rating": 4.8,
     "reviewsCount": 71,
-    "image": "/images/products/ash_95____premium___limited_edit.jpg",
+    "image": "./images/products/ash_95____premium___limited_edit.jpg",
     "additionalImages": [
       "https://i.ibb.co/0RZJ0XPV/f5f785698424.jpg",
       "https://i.ibb.co/mC59qRvv/96feb6f0cb30.jpg",
@@ -2250,7 +2250,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 50,
     "rating": 4.6,
     "reviewsCount": 179,
-    "image": "/images/products/ash_96____demon_slayer_birth_flo.jpg",
+    "image": "./images/products/ash_96____demon_slayer_birth_flo.jpg",
     "additionalImages": [
       "https://i.ibb.co/vxGS8LWq/b1f6d4670d16.jpg",
       "https://i.ibb.co/Y4tYVXQH/337342ce24b0.jpg",
@@ -2271,7 +2271,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 55,
     "rating": 4.9,
     "reviewsCount": 124,
-    "image": "/images/products/ash_97_______one_piece_premium_h.jpg",
+    "image": "./images/products/ash_97_______one_piece_premium_h.jpg",
     "additionalImages": [
       "https://i.ibb.co/tpPpBzKz/e36e54769228.jpg",
       "https://i.ibb.co/0RGjQLMJ/5d8ba7a45098.jpg",
@@ -2297,7 +2297,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.8,
     "reviewsCount": 82,
-    "image": "/images/products/ash_98____hunter_x_hunter_hoodie.jpg",
+    "image": "./images/products/ash_98____hunter_x_hunter_hoodie.jpg",
     "additionalImages": [
       "https://i.ibb.co/N2VRhq5W/33e456c3ab7c.jpg",
       "https://i.ibb.co/BhxbBD3/3777b72a0965.jpg",
@@ -2325,7 +2325,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 40,
     "rating": 4.9,
     "reviewsCount": 87,
-    "image": "/images/products/ash_99_______gojo_force__anime_r.jpg",
+    "image": "./images/products/ash_99_______gojo_force__anime_r.jpg",
     "additionalImages": [
       "https://i.ibb.co/wFqH6Zzj/64aa017dcc09.jpg",
       "https://i.ibb.co/sp3G2w79/9a9eb87fb1e5.jpg",
@@ -2349,7 +2349,7 @@ export const SHOPPING_PRODUCTS_DATA = [
     "discount": 45,
     "rating": 4.8,
     "reviewsCount": 47,
-    "image": "/images/products/ash_100____naruto_block_figure_my.jpg",
+    "image": "./images/products/ash_100____naruto_block_figure_my.jpg",
     "additionalImages": [
       "https://i.ibb.co/chmTTzyk/47d214526eef.jpg"
     ],

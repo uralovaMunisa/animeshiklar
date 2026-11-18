@@ -47,18 +47,18 @@ import ApiSettingsModal from './ApiSettingsModal';
 
 // TAYYOR SARALANGAN ANIME AVATARLARI (12 TA)
 export const PRESET_ANIME_AVATARS = [
-  { id: 'av-kaneki', name: 'Kaneki Ken', anime: 'Tokyo Ghoul', url: '/images/anime-pfp/kaneki-tokyo-ghoul-pfp.jpg' },
-  { id: 'av-split', name: 'Dark Split Power', anime: 'Jujutsu / Shadow', url: '/images/anime-pfp/dark-split-purple-eyes-pfp.jpg' },
-  { id: 'av-cat', name: 'Cat Hoodie Boy', anime: 'Otaku Style', url: '/images/anime-pfp/cat-hoodie-quiet-smile-pfp.jpg' },
-  { id: 'av-crown', name: 'White Hair King', anime: 'Fantasy King', url: '/images/anime-pfp/white-hair-crown-fang-king-pfp.jpg' },
-  { id: 'av-shadow', name: 'Shadow Tattoo Boy', anime: 'Dark Anime', url: '/images/anime-pfp/dark-shadow-tattoo-boy-pfp.jpg' },
-  { id: 'av-kitsu', name: 'Kitsu Fox Boy', anime: 'Yokai Fox', url: '/images/anime-pfp/kitsu-fox-boy-sheet-pfp.jpg' },
-  { id: 'av-cross', name: 'Cross Hoodie Boy', anime: 'Monochrome', url: '/images/anime-pfp/black-white-hoodie-cross-boy-pfp.jpg' },
-  { id: 'av-neon', name: 'Neon Blue Chains', anime: 'Cyberpunk', url: '/images/anime-pfp/neon-blue-chains-anime-boy-pfp.jpg' },
-  { id: 'av-vampire', name: 'Vampire Fang', anime: 'Vampire Lord', url: '/images/anime-pfp/vampire-fang-black-eyes-boy-pfp.jpg' },
-  { id: 'av-angel', name: 'Red Eyes Angel', anime: 'Fallen Angel', url: '/images/anime-pfp/white-hair-red-eyes-angel-pfp.jpg' },
-  { id: 'av-halo', name: 'Electric Halo Angel', anime: 'Aesthetic', url: '/images/anime-pfp/fallen-angel-electric-pole-halo-pfp.jpg' },
-  { id: 'av-kai', name: 'Kai Red Hair Sheet', anime: 'Original Character', url: '/images/anime-pfp/kai-red-hair-character-sheet-pfp.jpg' }
+  { id: 'av-kaneki', name: 'Kaneki Ken', anime: 'Tokyo Ghoul', url: './images/anime-pfp/kaneki-tokyo-ghoul-pfp.jpg' },
+  { id: 'av-split', name: 'Dark Split Power', anime: 'Jujutsu / Shadow', url: './images/anime-pfp/dark-split-purple-eyes-pfp.jpg' },
+  { id: 'av-cat', name: 'Cat Hoodie Boy', anime: 'Otaku Style', url: './images/anime-pfp/cat-hoodie-quiet-smile-pfp.jpg' },
+  { id: 'av-crown', name: 'White Hair King', anime: 'Fantasy King', url: './images/anime-pfp/white-hair-crown-fang-king-pfp.jpg' },
+  { id: 'av-shadow', name: 'Shadow Tattoo Boy', anime: 'Dark Anime', url: './images/anime-pfp/dark-shadow-tattoo-boy-pfp.jpg' },
+  { id: 'av-kitsu', name: 'Kitsu Fox Boy', anime: 'Yokai Fox', url: './images/anime-pfp/kitsu-fox-boy-sheet-pfp.jpg' },
+  { id: 'av-cross', name: 'Cross Hoodie Boy', anime: 'Monochrome', url: './images/anime-pfp/black-white-hoodie-cross-boy-pfp.jpg' },
+  { id: 'av-neon', name: 'Neon Blue Chains', anime: 'Cyberpunk', url: './images/anime-pfp/neon-blue-chains-anime-boy-pfp.jpg' },
+  { id: 'av-vampire', name: 'Vampire Fang', anime: 'Vampire Lord', url: './images/anime-pfp/vampire-fang-black-eyes-boy-pfp.jpg' },
+  { id: 'av-angel', name: 'Red Eyes Angel', anime: 'Fallen Angel', url: './images/anime-pfp/white-hair-red-eyes-angel-pfp.jpg' },
+  { id: 'av-halo', name: 'Electric Halo Angel', anime: 'Aesthetic', url: './images/anime-pfp/fallen-angel-electric-pole-halo-pfp.jpg' },
+  { id: 'av-kai', name: 'Kai Red Hair Sheet', anime: 'Original Character', url: './images/anime-pfp/kai-red-hair-character-sheet-pfp.jpg' }
 ];
 
 // TAYYOR MUQOVA RASMLARI
@@ -483,7 +483,7 @@ export default function ProfileScreen({
                 className="profile-main-avatar"
                 onError={(e) => {
                   e.target.onerror = null;
-                  e.target.src = '/images/anime-pfp/kaneki-tokyo-ghoul-pfp.jpg';
+                  e.target.src = './images/anime-pfp/kaneki-tokyo-ghoul-pfp.jpg';
                 }}
               />
               <div className="avatar-online-badge" title="Faol Muxlis" />

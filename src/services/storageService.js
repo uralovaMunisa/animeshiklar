@@ -8,6 +8,16 @@ const PROFILE_STORAGE_KEY = 'animeshiklar_user_profile_v2';
 const CART_STORAGE_KEY = 'animeshiklar_cart_items_v2';
 const ORDERS_STORAGE_KEY = 'animeshiklar_orders_v2';
 
+// Xavfsiz orqa fon sinxronizatsiyasi (GitHub Pages va Offline rejimda 404 xatolarini oldini oladi)
+function safeBackendSync(url, options = {}) {
+  try {
+    if (typeof window !== 'undefined' && (window.location.hostname.includes('github.io') || window.location.protocol === 'file:')) {
+      return;
+    }
+    fetch(url, options).catch(() => {});
+  } catch (_) {}
+}
+
 // 1. SAVED TIZIMI
 export function getSavedItems() {
   try {
@@ -40,11 +50,11 @@ export function toggleSaveItem(item) {
     localStorage.setItem(SAVED_STORAGE_KEY, JSON.stringify(updated));
 
     // Backend bilan orqa fonda sinxronlash
-    fetch('/api/saved/toggle', {
+    safeBackendSync('/api/saved/toggle', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ item })
-    }).catch(() => {});
+    });
 
     return { updated, isSaved };
   } catch (e) {
@@ -58,7 +68,7 @@ export function removeSavedItem(id) {
     const updated = current.filter((i) => i.id !== id);
     localStorage.setItem(SAVED_STORAGE_KEY, JSON.stringify(updated));
 
-    fetch(`/api/saved/${encodeURIComponent(id)}`, { method: 'DELETE' }).catch(() => {});
+    safeBackendSync(`/api/saved/${encodeURIComponent(id)}`, { method: 'DELETE' });
 
     return updated;
   } catch (e) {
@@ -97,11 +107,11 @@ export function toggleLikeItem(id) {
 
     localStorage.setItem(LIKED_STORAGE_KEY, JSON.stringify(Array.from(next)));
 
-    fetch('/api/likes/toggle', {
+    safeBackendSync('/api/likes/toggle', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ id })
-    }).catch(() => {});
+    });
 
     return { likedSet: next, isLiked };
   } catch (e) {
@@ -126,11 +136,11 @@ export function addToWatchHistory(item) {
     const updated = [{ ...item, watchedAt: new Date().toISOString() }, ...filtered].slice(0, 40);
     localStorage.setItem(HISTORY_STORAGE_KEY, JSON.stringify(updated));
 
-    fetch('/api/history', {
+    safeBackendSync('/api/history', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ entry: item })
-    }).catch(() => {});
+    });
 
     return updated;
   } catch (e) {
@@ -140,7 +150,7 @@ export function addToWatchHistory(item) {
 
 export function clearWatchHistory() {
   localStorage.removeItem(HISTORY_STORAGE_KEY);
-  fetch('/api/history', { method: 'DELETE' }).catch(() => {});
+  safeBackendSync('/api/history', { method: 'DELETE' });
   return [];
 }
 
@@ -165,11 +175,11 @@ export function getUserProfile() {
 export function saveUserProfile(profile) {
   try {
     localStorage.setItem(PROFILE_STORAGE_KEY, JSON.stringify(profile));
-    fetch('/api/auth/profile', {
+    safeBackendSync('/api/auth/profile', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(profile)
-    }).catch(() => {});
+    });
     return profile;
   } catch (e) {
     return profile;
@@ -216,11 +226,11 @@ export function addToCart(product, quantity = 1, selectedSize = 'L') {
 
     localStorage.setItem(CART_STORAGE_KEY, JSON.stringify(updatedCart));
 
-    fetch('/api/cart/add', {
+    safeBackendSync('/api/cart/add', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ product, quantity, selectedSize })
-    }).catch(() => {});
+    });
 
     return updatedCart;
   } catch (e) {
@@ -242,11 +252,11 @@ export function updateCartQuantity(id, selectedSize, quantity) {
     });
     localStorage.setItem(CART_STORAGE_KEY, JSON.stringify(updated));
 
-    fetch('/api/cart/update', {
+    safeBackendSync('/api/cart/update', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ id, selectedSize, quantity })
-    }).catch(() => {});
+    });
 
     return updated;
   } catch (e) {
@@ -262,11 +272,11 @@ export function removeFromCart(id, selectedSize) {
     );
     localStorage.setItem(CART_STORAGE_KEY, JSON.stringify(updated));
 
-    fetch('/api/cart/remove', {
+    safeBackendSync('/api/cart/remove', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ id, selectedSize })
-    }).catch(() => {});
+    });
 
     return updated;
   } catch (e) {
@@ -276,7 +286,7 @@ export function removeFromCart(id, selectedSize) {
 
 export function clearCart() {
   localStorage.removeItem(CART_STORAGE_KEY);
-  fetch('/api/cart/clear', { method: 'POST' }).catch(() => {});
+  safeBackendSync('/api/cart/clear', { method: 'POST' });
   return [];
 }
 
@@ -334,11 +344,11 @@ export function placeOrder(orderData) {
     // Savatni tozalash
     clearCart();
 
-    fetch('/api/orders', {
+    safeBackendSync('/api/orders', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(newOrder)
-    }).catch(() => {});
+    });
 
     return { success: true, order: newOrder, orders: updatedOrders };
   } catch (e) {

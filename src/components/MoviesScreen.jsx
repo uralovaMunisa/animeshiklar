@@ -527,7 +527,7 @@ export default function MoviesScreen({
                   </div>
                   <video
                     key={selectedEpisode?.videoUrl || activeMovieDetail.id}
-                    src={selectedEpisode?.videoUrl || activeMovieDetail.videoUrl || '/videos/anime-clips/clip_1.mp4'}
+                    src={selectedEpisode?.videoUrl || activeMovieDetail.videoUrl || './videos/anime-clips/clip_1.mp4'}
                     controls
                     autoPlay
                     playsInline

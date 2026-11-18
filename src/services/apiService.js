@@ -7,6 +7,30 @@ import { IMAGES_DATA, SHORTS_DATA } from '../data/animeData';
 import { ANIME_PICTURES_DATA, searchLocalAnimePictures } from '../data/animePicturesData';
 import { SHOPPING_PRODUCTS_DATA } from '../data/shoppingData';
 
+// Backend server mavjudligini xavfsiz tekshirish (GitHub Pages va Offline rejimda 404/504 xatoliklarini oldini olish)
+let backendChecked = false;
+let backendAvailable = false;
+
+export async function isBackendAvailable() {
+  if (backendChecked) return backendAvailable;
+  if (typeof window !== 'undefined' && (window.location.hostname.includes('github.io') || window.location.protocol === 'file:')) {
+    backendChecked = true;
+    backendAvailable = false;
+    return false;
+  }
+  try {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), 600);
+    const res = await fetch('/api/health', { signal: ctrl.signal });
+    clearTimeout(t);
+    backendAvailable = res.ok;
+  } catch (e) {
+    backendAvailable = false;
+  }
+  backendChecked = true;
+  return backendAvailable;
+}
+
 // API kalitlarini olish (Env yoki LocalStorage)
 export function getYouTubeApiKey() {
   return (
@@ -81,23 +105,25 @@ export async function searchYouTubeVideos({
   const trimmed = query.trim();
 
   // 1-QADAM: Backend API serveriga murojaat qilish (xavfsiz .env bilan)
-  try {
-    const backendUrl = `/api/youtube/search?q=${encodeURIComponent(trimmed || 'Anime 4K')}&category=${encodeURIComponent(
-      category
-    )}${pageToken ? `&pageToken=${encodeURIComponent(pageToken)}` : ''}`;
-    const backendRes = await fetch(backendUrl);
-    if (backendRes.ok) {
-      const data = await backendRes.json();
-      if (data.videos && data.videos.length > 0) {
-        return {
-          items: data.videos,
-          nextPageToken: data.nextPageToken || null,
-          totalResults: data.totalResults || data.videos.length
-        };
+  if (await isBackendAvailable()) {
+    try {
+      const backendUrl = `/api/youtube/search?q=${encodeURIComponent(trimmed || 'Anime 4K')}&category=${encodeURIComponent(
+        category
+      )}${pageToken ? `&pageToken=${encodeURIComponent(pageToken)}` : ''}`;
+      const backendRes = await fetch(backendUrl);
+      if (backendRes.ok) {
+        const data = await backendRes.json();
+        if (data.videos && data.videos.length > 0) {
+          return {
+            items: data.videos,
+            nextPageToken: data.nextPageToken || null,
+            totalResults: data.totalResults || data.videos.length
+          };
+        }
       }
+    } catch (err) {
+      // Backend mavjud bo'lmasa, to'g'ridan-to'g'ri client tomoni davom etadi
     }
-  } catch (err) {
-    // Backend mavjud bo'lmasa, to'g'ridan-to'g'ri client tomoni davom etadi
   }
 
   // 2-QADAM: Agar frontendda alohida kiritilgan YouTube Data API v3 kaliti bo'lsa
@@ -361,16 +387,18 @@ export async function fetchAnimeMovies({ query = '', genre = 'All Genres', page 
   const trimmed = query.trim().toLowerCase();
 
   // 1-QADAM: Backend API proxy
-  try {
-    const backendUrl = `/api/movies/search?q=${encodeURIComponent(trimmed)}&genre=${encodeURIComponent(genre)}`;
-    const bRes = await fetch(backendUrl);
-    if (bRes.ok) {
-      const bData = await bRes.json();
-      if (bData.movies && bData.movies.length > 0) {
-        return bData.movies;
+  if (await isBackendAvailable()) {
+    try {
+      const backendUrl = `/api/movies/search?q=${encodeURIComponent(trimmed)}&genre=${encodeURIComponent(genre)}`;
+      const bRes = await fetch(backendUrl);
+      if (bRes.ok) {
+        const bData = await bRes.json();
+        if (bData.movies && bData.movies.length > 0) {
+          return bData.movies;
+        }
       }
-    }
-  } catch (e) {}
+    } catch (e) {}
+  }
 
   // 2-QADAM: Agar frontendda TMDB kaliti bo'lsa
   const tmdbKey = getTmdbApiKey();
@@ -449,16 +477,18 @@ export async function fetchAnimeMovies({ query = '', genre = 'All Genres', page 
 // ========================================================
 
 export async function fetchShoppingProducts({ query = '', category = 'Barchasi', sortBy = 'featured' } = {}) {
-  try {
-    const url = `/api/shopping/products?q=${encodeURIComponent(query)}&category=${encodeURIComponent(
-      category
-    )}&sortBy=${encodeURIComponent(sortBy)}`;
-    const res = await fetch(url);
-    if (res.ok) {
-      const data = await res.json();
-      if (data.products) return data.products;
-    }
-  } catch (e) {}
+  if (await isBackendAvailable()) {
+    try {
+      const url = `/api/shopping/products?q=${encodeURIComponent(query)}&category=${encodeURIComponent(
+        category
+      )}&sortBy=${encodeURIComponent(sortBy)}`;
+      const res = await fetch(url);
+      if (res.ok) {
+        const data = await res.json();
+        if (data.products) return data.products;
+      }
+    } catch (e) {}
+  }
 
   // Fallback to local shopping data
   let filtered = [...SHOPPING_PRODUCTS_DATA];
@@ -505,16 +535,18 @@ export async function fetchShoppingProducts({ query = '', category = 'Barchasi',
 const COMMENTS_CACHE_KEY = 'animeshiklar_comments_cache_v2';
 
 export async function fetchComments(targetId = 'all') {
-  try {
-    const res = await fetch(`/api/comments?targetId=${encodeURIComponent(targetId)}`);
-    if (res.ok) {
-      const data = await res.json();
-      if (data.comments) {
-        localStorage.setItem(`${COMMENTS_CACHE_KEY}_${targetId}`, JSON.stringify(data.comments));
-        return data.comments;
+  if (await isBackendAvailable()) {
+    try {
+      const res = await fetch(`/api/comments?targetId=${encodeURIComponent(targetId)}`);
+      if (res.ok) {
+        const data = await res.json();
+        if (data.comments) {
+          localStorage.setItem(`${COMMENTS_CACHE_KEY}_${targetId}`, JSON.stringify(data.comments));
+          return data.comments;
+        }
       }
-    }
-  } catch (e) {}
+    } catch (e) {}
+  }
 
   // Local fallback
   try {
@@ -549,17 +581,19 @@ export async function fetchComments(targetId = 'all') {
 }
 
 export async function postComment({ targetId, text, author, username, avatar, parentId = null }) {
-  try {
-    const res = await fetch('/api/comments', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ targetId, text, author, username, avatar, parentId })
-    });
-    if (res.ok) {
-      const data = await res.json();
-      if (data.comment) return data.comment;
-    }
-  } catch (e) {}
+  if (await isBackendAvailable()) {
+    try {
+      const res = await fetch('/api/comments', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ targetId, text, author, username, avatar, parentId })
+      });
+      if (res.ok) {
+        const data = await res.json();
+        if (data.comment) return data.comment;
+      }
+    } catch (e) {}
+  }
 
   // Local fallback creation
   const newComment = {
@@ -584,9 +618,11 @@ export async function postComment({ targetId, text, author, username, avatar, pa
 }
 
 export async function deleteComment(commentId, targetId = 'all') {
-  try {
-    await fetch(`/api/comments/${encodeURIComponent(commentId)}`, { method: 'DELETE' });
-  } catch (e) {}
+  if (await isBackendAvailable()) {
+    try {
+      await fetch(`/api/comments/${encodeURIComponent(commentId)}`, { method: 'DELETE' });
+    } catch (e) {}
+  }
 
   try {
     const cached = localStorage.getItem(`${COMMENTS_CACHE_KEY}_${targetId}`);
@@ -600,12 +636,14 @@ export async function deleteComment(commentId, targetId = 'all') {
 }
 
 export async function likeComment(commentId) {
-  try {
-    await fetch('/api/comments/like', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ commentId })
-    });
-  } catch (e) {}
+  if (await isBackendAvailable()) {
+    try {
+      await fetch('/api/comments/like', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ commentId })
+      });
+    } catch (e) {}
+  }
   return true;
 }
