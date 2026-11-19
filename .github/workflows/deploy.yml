@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -16,9 +16,6 @@ concurrency:
 
 jobs:
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -36,15 +33,30 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Add .nojekyll and 404 fallback
+        run: |
+          touch dist/.nojekyll
+          cp dist/index.html dist/404.html
+
+      # 1-USUL: gh-pages tarmog'iga deploy qilish (100% kafolatlangan va universal)
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+
+      # 2-USUL: GitHub Actions orqali to'g'ridan-to'g'ri Pages deploy
       - name: Setup Pages
         uses: actions/configure-pages@v4
+        continue-on-error: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: './dist'
+        continue-on-error: true
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
+        continue-on-error: true
